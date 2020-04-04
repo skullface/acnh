@@ -1,7 +1,7 @@
 ---
 name: "✨ Villager request"
 about: One of our neighbors asked us for a favor!
-title: "✨ ___ ___ for ___"
+title: "✨ <Verb> <item> for <Villager>"
 labels: villager request
 assignees: ''
 
