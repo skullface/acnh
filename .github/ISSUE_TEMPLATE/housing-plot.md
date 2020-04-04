@@ -2,7 +2,7 @@
 name: "🏡 New neighbor alert!"
 about: Tom Nook asked us to get their housing plot ready for move-in.
 title: "🏡 Plot #"
-labels: house, tom nook said so
+labels: housing plot, tom nook said so
 assignees: ''
 
 ---
