@@ -44,7 +44,11 @@ Time is determined by your Switch’s local time. A new day in ACNH starts at �
 
 Tools only wear down when your action is successful. Ladders, Vaulting Poles, and Wands will not break. Watering empty land decreases a Watering Can’s durability by 10% of its use on flower(s).
 
-<details open><summary><strong>Standard tools</strong> (require 1 iron nugget)</summary><br>
+<details open>
+  <summary>
+    <strong>Standard tools</strong> (require 1 iron nugget)
+  </summary>
+  <br>
 
 | 🧰 Tool | 💔 Break point | ❌ Loses durability | ➖ No effect |
 | :--- | :--- | :--- | :--- |
@@ -57,7 +61,10 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 | Watering Can | ~60 uses 🌷 | Water flowers |  |
 </details>
 
-<details><summary><strong>Flimsy tools</strong></summary>
+<details>
+  <summary>
+    <strong>Flimsy tools</strong>
+  </summary>
   
 | 🧰 Tool | ⚰️ Break point | ❌ Loses durability | ➖ No effect |
 | :--- | :--- | :--- | :--- |
@@ -66,7 +73,6 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 | Flimsy Fishing Rod | 10 catches 🐠 | Catch fish or trash | Cast net unsuccessfully |
 | Flimsy Net | 10 bugs 🐛 | Catch bug | Swing net unsuccessfully<br>Hit someone |
 | Flimsy Watering Can | ~20 uses 🌷 | Water flowers |  |
-
 </details>
 
 ---
