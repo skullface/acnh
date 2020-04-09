@@ -23,8 +23,29 @@
   * [_First Week Walkthrough_](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21182290/first-week-daily-goals-how-to-unlock-museum-steps-farming)
 * [@eevee’s companion guide tips](https://c.eev.ee/acnh-companion/#tips)
 
+## Timing
+Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
+
+#### ☀️ Daytime, 5:00 am — 5:59 pm
+| ⏰ Time | 🗓️ Event |
+| :--- | :--- | 
+| 🕔 **`5:00 am`** | Day begins |
+| 🕘 **`8:00 am`** | Nook’s Cranny opens |
+| 🕙 **`9:00 am`** | Able Sisters opens |
+
+#### 🌙 Nighttime, 6:00 pm — 4:59 am
+| ⏰ Time | 🗓️ Event |
+| :--- | :--- | 
+| 🕘 **`9:00 pm`** | Able Sisters closes |
+| 🕙 **`10:00 pm`** | Nook’s Cranny closes |
+
+#### Every day/night switch
+* Certain critters appear/disappear
+* Certain villages are more/less active
+* Balloon presents switch sides by spawning from the opposite beach
+
 ## Dailies <sub><sup><sub>[`source 1`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21162973/day-dailies-fossils-money-rock-bells-furniture) [`source 2`](https://c.eev.ee/acnh-companion/#tips)</sub></sup></sub>
-Time is determined by your Switch’s local time. A new day in ACNH starts at 🕔 **`5:00 am`**, when you can accomplish these tasks all over again:
+Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all over again:
 
 * [ ] Check in at the Nook Stop (300 Nook Miles per day after your first 6 days)
 * [ ] Shop the Nook Stop for new special catalog items and fence recipes
@@ -39,6 +60,42 @@ Time is determined by your Switch’s local time. A new day in ACNH starts at �
     * [ ] Wood
     * [ ] Fruits (grow every three days after they were last picked)
     * [ ] Furniture, ~💰1,000 Bells, and/or wasps from cedar/hardwood trees
+    
+## Shell sale prices
+| Shell | Value |
+| --- | --- |
+| Pearl Oyster | 💰 1,200 Bells |
+| Conch	| 💰 700 Bells |
+| Scallop shell	| 💰 600 Bells |
+| Giant Clam	| 💰 450 Bells |
+| Oyster shell	| 💰 450 Bells |
+| White scallop	| 💰 450 Bells |
+| Coral	| 💰 250 Bells |
+
+<details>
+  <summary>
+    <strong>Shells worth 200 Bells and under</strong>
+  </summary>
+  
+  | Shell | Value |
+  | --- | --- |
+  | Sea Snail	| 💰 180 Bells |
+  | Venus comb	| 💰 150 Bells |
+  | Sand dollar	| 💰 120 Bells |
+</details>
+
+
+<details>
+  <summary>
+    <strong>Shells worth 100 Bells and under</strong>
+  </summary>
+  
+  | Shell | Value |
+  | --- | --- |
+  | Manila Clam	| 💰 100 Bells |
+  | Cowries	| 💰 60 Bells |
+  | Porceletta	| 💰 30 Bells |
+</details>
 
 ## Tool durability <sub><sup><sub>[`source`](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/31/21194209/durability-list-broken-breaking-shovel-axe-fishing-rod-watering-can-slingshot-bug-net)</sub></sup></sub>
 
@@ -48,7 +105,6 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
   <summary>
     <strong>Standard tools</strong> (require 1 iron nugget)
   </summary>
-  <br>
 
 | 🧰 Tool | 💔 Break point | ❌ Loses durability | ➖ No effect |
 | :--- | :--- | :--- | :--- |
