@@ -14,14 +14,15 @@
 
 ---
 
-## Resources
+## Resources and guides
 * [**Critterpedia**](https://critterpedia.moppler.co.uk): What fish + insects are available to catch _right now_, with location and sale price.
+* [**Pattern Editor**](https://acpatterns.com/editor): Upload an image and get the QR code for the Able Sisters.
+* [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community designers for the Able Sisters.
+* [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
+* [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room): How to decorate your house to maximize your luck in game.
+* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout in the browser.
 * [**Nookazon**](http://nookazon.com): eBay-esque marketplace (pay in Bells, not cash!)
-
-## Guides
-* [Polygon guides](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips)
-  * [_First Week Walkthrough_](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21182290/first-week-daily-goals-how-to-unlock-museum-steps-farming)
-* [@eevee’s companion guide tips](https://c.eev.ee/acnh-companion/#tips)
+* [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips)
 
 ## Timing
 Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
