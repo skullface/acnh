@@ -8,8 +8,16 @@
      and keep tabs on information 👇 I don’t want to lose.
   </p>
   <p align="center">
-    Let’s be friends? I’m <strong>Skullie</strong> from 🏝<strong>Briar Rose</strong> Island.<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes~
+    Let’s be friends! I’m <strong>Skullie</strong> from 🏝<strong>Briar Rose</strong> Island.<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes~
   </p>
+</p>
+
+---
+
+<p align="center">
+  <strong>
+    Looking for my catalog or wishlist?
+  </strong><br>🏡 <a href="https://github.com/skullface/acnh/blob/trading/trading/home.md">Furniture/Housewares</a> &nbsp; &nbsp; 👚 <a href="https://github.com/skullface/acnh/blob/trading/trading/closet.md">Clothing/Accessories</a>
 </p>
 
 ---
