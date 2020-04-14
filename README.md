@@ -18,6 +18,7 @@
 * [**Critterpedia**](https://critterpedia.moppler.co.uk): What fish + insects are available to catch _right now_, with location and sale price.
 * [**Pattern Editor**](https://acpatterns.com/editor): Practice your pattern designs or upload an image and get its QR code for the Able Sisters.
 * [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community design for the Able Sisters.
+* [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items (warning: spoilers). 
 * [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
 * [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room): How to decorate your house to maximize your luck in game.
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout in the browser.
