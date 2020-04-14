@@ -1,7 +1,7 @@
 [**Skip to wishlist &darr;**](#want)<br>
 Here’s my catalog of tradeables and my wishlist for housewares, miscellaneous, wall-mounteds, rugs, wallpapers, and flooring!
 
-I’m happy to trade for/send freely anything under 5,000 Bells~
+I’m happy to trade for/freely send anything under 5,000 Bells~
 
 ---
 
@@ -14,7 +14,7 @@ I’m happy to trade for/send freely anything under 5,000 Bells~
 | ![](https://imgur.com/qESmNb9.png)<br>**Baby panda** |
 | ![](https://imgur.com/h2kfbPu.png)<br>**Basketball hoop**<br>`blue` | 11k Bells |
 | ![](https://imgur.com/eT5W0oD.png)<br>**Beaded curtain wall** |
-| ![](https://imgur.com/1yLZR2e.png)<br>**Beekeeper’s hive**  | craftable, <br />need materials |
+| ![](https://imgur.com/1yLZR2e.png)<br>**Beekeeper’s hive**  | craftable, need materials |
 | ![](https://imgur.com/uXoWUdy.png)<br>**Blue stripes rug**  |
 | ![](https://imgur.com/Z8StApv.png)<br>**Blue-striped wall** |
 | ![](https://imgur.com/qytG4Px.png)<br>**Book**<br>`Japanese` |
@@ -57,7 +57,7 @@ I’m happy to trade for/send freely anything under 5,000 Bells~
 | ![](https://imgur.com/SL6Mmk2.png)<br>**Glass holder with candle**<br>`white` |
 | ![](https://imgur.com/7zwhIEP.png)<br>**Globe**<br>`sepia`  |
 | ![](https://imgur.com/HRb1NXF.png)<br>**Go board** |
-| ![](https://imgur.com/RvAD4XF.png)<br>**Golden floor** | craftable, <br />need materials |
+| ![](https://imgur.com/RvAD4XF.png)<br>**Golden floor** | craftable, need materials |
 | ![](https://imgur.com/z9XHI3B.png)<br>**Hamster cage**<br>`blue` |
 | ![](https://imgur.com/62o6qJx.png)<br>**Hand cart**<br>`red`, `green` |
 | ![](https://imgur.com/NzO7BBM.png)<br>**Harmonious wall**| |
@@ -114,9 +114,9 @@ I’m happy to trade for/send freely anything under 5,000 Bells~
 | ![](https://imgur.com/LTk1a39.png)<br>**Sewing machine**<br>`blue`, `black` |
 | ![](https://imgur.com/74J1DWu.png)<br>**Sewing project**<br>`blue` |
 | ![](https://imgur.com/U7Z0SxZ.png)<br>**Shaved ice maker**<br>`teal` |
-| ![](https://imgur.com/kC0Gkeq.png)<br>**Shell arch** | craftable,<br>need materials |
-| ![](https://imgur.com/bEeJN8R.png)<br>**Shell lamp** | craftable,<br>need materials |
-| ![](https://imgur.com/GtyEUzJ.png)<br>**Shell table** | craftable,<br>need materials |
+| ![](https://imgur.com/kC0Gkeq.png)<br>**Shell arch** | craftable, need materials |
+| ![](https://imgur.com/bEeJN8R.png)<br>**Shell lamp** | craftable, need materials |
+| ![](https://imgur.com/GtyEUzJ.png)<br>**Shell table** | craftable, need materials |
 | ![](https://imgur.com/706anWa.png)<br>**Silver mic** |
 | ![](https://imgur.com/XuoSfWS.png)<br>**Simple kettle**<br>`black` |
 | ![](https://imgur.com/b2XBjuf.png)<br>**Simple medium avocado mat** |
@@ -145,7 +145,7 @@ I’m happy to trade for/send freely anything under 5,000 Bells~
 | ![](https://imgur.com/zPoweGc.png)<br>**Weight bench** | 5.4k Bells |
 | ![](https://imgur.com/5KXt3dQ.png)<br>**White wooden deck rug** |
 | ![](https://imgur.com/6PITKOn.png)<br>**Wind turbine**<br>`blue` | Nook Miles |
-| ![](https://imgur.com/Nux9rdL.png)<br>**Wooden bookshelf**  | craftable, <br />need materials |
+| ![](https://imgur.com/Nux9rdL.png)<br>**Wooden bookshelf**  | craftable,need materials |
 | ![](https://imgur.com/Jngecrl.png)<br>**Writing chair**<br>`natural` |
 | ![](https://imgur.com/FljLqoY.png)<br>**Writing desk**<br>`natural` |
 
