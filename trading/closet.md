@@ -83,11 +83,3 @@ Here’s my catalog of clothing and accessories!
 [**Scroll to top of wishlist &uarr;**](#want)<br>
 [**Scroll to top of catalog list &uarr;**](#have)<br>
 [**Go to furniture/housewares list &rarr;**](home.md)
-
-
-
----
-
-[**Scroll to top of wishlist &uarr;**](#want)<br>
-[**Scroll to top of catalog list &uarr;**](#have)<br>
-[**Go to furniture/housewares list &rarr;**](home.md)
