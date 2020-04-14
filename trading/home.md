@@ -196,7 +196,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/09PAWxt.png)<br>**Perforated board wall**<br>`any` |
 | ![](https://imgur.com/4qUugHD.png)<br>**Pet bed**<br>`white` |
 | ![](https://imgur.com/cuxflp8.png)<br>**Phone box**<br>`red`, `blue` |
-| ![](https://imgur.com/oUhwrgx.png)<br>**Picnic basket**<br>`natural/red`, `white/pastel` |
+| ![](https://imgur.com/oUhwrgx.png)<br>**Picnic basket**<br>`red`, `pastel` |
 | ![](https://imgur.com/Z29b5fA.png)<br>**Pink heart rug** |
 | ![](https://imgur.com/CQAOFqM.png)<br>**Plastic pool**<br>`blue` |
 | ![](https://imgur.com/mOfHnrh.png)<br>**Poolside bed**<br>`any` |
