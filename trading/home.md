@@ -12,9 +12,9 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/VTEoxiR.png)<br>**Amp**<br>`black`, `pink` |
 | ![](https://imgur.com/Hhg37Ut.png)<br>**Baby chair**<br>`pink bear` |
 | ![](https://imgur.com/qESmNb9.png)<br>**Baby panda** |
-| ![](https://imgur.com/h2kfbPu.png)<br>**Basketball hoop**<br>`blue` | 11k Bells |
+| ![](https://imgur.com/h2kfbPu.png)<br>**Basketball hoop**<br>`blue` | 11,000 Bells |
 | ![](https://imgur.com/eT5W0oD.png)<br>**Beaded curtain wall** |
-| ![](https://imgur.com/1yLZR2e.png)<br>**Beekeeper’s hive**  | craftable, need materials |
+| ![](https://imgur.com/1yLZR2e.png)<br>**Beekeeper’s hive**  | _craftable!_, please provide materials |
 | ![](https://imgur.com/uXoWUdy.png)<br>**Blue stripes rug**  |
 | ![](https://imgur.com/Z8StApv.png)<br>**Blue-striped wall** |
 | ![](https://imgur.com/qytG4Px.png)<br>**Book**<br>`Japanese` |
@@ -31,16 +31,16 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/aJpyFvl.png)<br>**Crepe-design wall** |
 | ![](https://imgur.com/xZ06qKC.png)<br>**Cubic parquet flooring** |
 | ![](https://imgur.com/gp6SjQK.png)<br>**Cuckoo clock**<br>`natural` |
-| ![](https://imgur.com/GvJsvAB.png)<br>**Cute bed**<br>`white/pink` | 12k Bells |
+| ![](https://imgur.com/GvJsvAB.png)<br>**Cute bed**<br>`white/pink` | 12,000 Bells |
 | ![](https://imgur.com/OQ3eoaV.png)<br>**Cute music player**<br>`aqua`, `yellow` |
 | ![](https://imgur.com/DK5GTfX.png)<br>**Cute-paint flooring** |
 | ![](https://imgur.com/CNaCq05.png)<br>**Cute red wall** |
 | ![](https://imgur.com/zeZn13X.png)<br>**Cotton candy stall**<br>`pastel` |
 | ![](https://imgur.com/f2zDKuh.png)<br>**Dark herringbone flooring** |
-| ![](https://imgur.com/VBSD1q2.png)<br>**Den desk**<br>`dark wood` | 10k Bells |
+| ![](https://imgur.com/VBSD1q2.png)<br>**Den desk**<br>`dark wood` | 10,000 Bells |
 | ![](https://imgur.com/EFosBnT.png)<br>**Digital alarm clock**<br>`cream` |
-| ![](https://imgur.com/HPayQ45.png)<br>**Diner counter table**<br>`red` | 6k Bells |
-| ![](https://imgur.com/vUFgbPV.png)<br>**Diner dining table**<br>`red` | 6.4k Bells |
+| ![](https://imgur.com/HPayQ45.png)<br>**Diner counter table**<br>`red` | 6,000 Bells |
+| ![](https://imgur.com/vUFgbPV.png)<br>**Diner dining table**<br>`red` | 6.4,000 Bells |
 | ![](https://imgur.com/s848l3K.png)<br>**Diner mini table**<br>`red`, `cream` |
 | ![](https://imgur.com/ChhAbQ6.png)<br>**Diner neon clock**<br>`yellow` |
 | ![](https://imgur.com/BGihEWL.png)<br>**Diner sofa**<br>`red` |
@@ -57,23 +57,23 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/SL6Mmk2.png)<br>**Glass holder with candle**<br>`white` |
 | ![](https://imgur.com/7zwhIEP.png)<br>**Globe**<br>`sepia`  |
 | ![](https://imgur.com/HRb1NXF.png)<br>**Go board** |
-| ![](https://imgur.com/RvAD4XF.png)<br>**Golden floor** | craftable, need materials |
+| ![](https://imgur.com/RvAD4XF.png)<br>**Golden floor** | _craftable!_, please provide materials |
 | ![](https://imgur.com/z9XHI3B.png)<br>**Hamster cage**<br>`blue` |
 | ![](https://imgur.com/62o6qJx.png)<br>**Hand cart**<br>`red`, `green` |
 | ![](https://imgur.com/NzO7BBM.png)<br>**Harmonious wall**| |
-| ![](https://imgur.com/99gak2J.png)<br>**High-end stereo**| 10k Bells |
+| ![](https://imgur.com/99gak2J.png)<br>**High-end stereo**| 10,000 Bells |
 | ![](https://imgur.com/akRaDd4.png)<br>**Hose reel**<br>`red` |
 | ![](https://imgur.com/Zzur9h6.png)<br>**Imperial partition**<br>`brown` |
 | ![](https://imgur.com/fJvfulb.png)<br>**Incense burner**<br>`green/wood`, `pink/white` |
 | ![](https://imgur.com/9n2zIQK.png)<br>**Iron entrance mat** |
 | ![](https://imgur.com/LcoHUrU.png)<br>**Kotatsu** |
 | ![](https://imgur.com/RQt9gkW.png)<br>**Kitty litter box**<br>`white`, `brown` |
-| ![](https://imgur.com/PGMdJWI.png)<br>**Lab experiments set** | 6k Bells |
+| ![](https://imgur.com/PGMdJWI.png)<br>**Lab experiments set** | 6,000 Bells |
 | ![](https://imgur.com/5r08Hpc.png)<br>**Lecture hall bench**<br>`light brown` |
 | ![](https://imgur.com/n7jhqeX.png)<br>**Lecture hall desk**<br>`light brown` |
 | ![](https://imgur.com/BXpqCV9.png)<br>**Lifeguard chair**<br>`blue` | Nook Miles |
 | ![](https://imgur.com/PuDGVxM.png)<br>**Lighthouse**<br>`red` | Nook Miles |
-| ![](https://imgur.com/oQBsuvh.png)<br>**Long bathtub**<br>`checker tile` | 7.8k Bells |
+| ![](https://imgur.com/oQBsuvh.png)<br>**Long bathtub**<br>`checker tile` | 7,800 Bells |
 | ![](https://imgur.com/f9w8ml2.png)<br>**Macrame tapestry**<br>`white` |
 | ![](https://imgur.com/UqaKfPm.png)<br>**Magnetic knife rack**<br>`pop` |
 | ![](https://imgur.com/CDdPUcq.png)<br>**Mama bear**<br>`tweed`, `cream` |
@@ -82,7 +82,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/Z5cI3cD.png)<br>**Mini-cactus set**| |
 | ![](https://imgur.com/Yu30mlZ.png)<br>**Mobile**<br>`hot air balloons` |
 | ![](https://imgur.com/pmlBhuv.png)<br>**Monster statue**<br>`blue` | Nook Miles |
-| ![](https://imgur.com/sxJ2eS7.png)<br>**Mountain bike**<br>`pink`, `green` | 5.1k Bells |
+| ![](https://imgur.com/sxJ2eS7.png)<br>**Mountain bike**<br>`pink`, `green` | 5,100 Bells |
 | ![](https://imgur.com/TYZsw8H.png)<br>**Nail art set**<br>`pink` |
 | ![](https://imgur.com/KpNi8ZO.png)<br>**Parabolic antenna**<br>`Nook Inc.` | Nook Miles |
 | ![](https://imgur.com/unHJdSE.png)<br>**Park clock**<br>`white` | Nook Miles |
@@ -104,19 +104,19 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/V632eun.png)<br>**Rattan armchair**<br>`brown` |
 | ![](https://imgur.com/2wTMqCd.png)<br>**Rattan end table**<br>`white` |
 | ![](https://imgur.com/KBB5S3U.png)<br>**Rattan towel basket**<br>`natural` |
-| ![](https://imgur.com/DMpu4Fv.png)<br>**Rattan vanity**<br>`gray` | 5.9k Bells |
-| ![](https://imgur.com/oqC9r9v.png)<br>**Rattan wardrobe**<br>`brown` | 6.9k Bells |
+| ![](https://imgur.com/DMpu4Fv.png)<br>**Rattan vanity**<br>`gray` | 5,900 Bells |
+| ![](https://imgur.com/oqC9r9v.png)<br>**Rattan wardrobe**<br>`brown` | 6,900 Bells |
 | ![](https://imgur.com/dztahb1.png)<br>**Red brick wall** |
-| ![](https://imgur.com/pvB6yM7.png)<br>**Retro stereo**<br>`brown` | 6k Bells |
+| ![](https://imgur.com/pvB6yM7.png)<br>**Retro stereo**<br>`brown` | 6,000 Bells |
 | ![](https://imgur.com/6AnovA7.png)<br>**Rock guitar**<br>`natural wood/black` |
 | ![](https://imgur.com/gnQUYOP.png)<br>**Revolving spice rack**<br>`brown` |
 | ![](https://imgur.com/NbRw7L4.png)<br>**Rotary phone**<br>`black` |
 | ![](https://imgur.com/LTk1a39.png)<br>**Sewing machine**<br>`blue`, `black` |
 | ![](https://imgur.com/74J1DWu.png)<br>**Sewing project**<br>`blue` |
 | ![](https://imgur.com/U7Z0SxZ.png)<br>**Shaved ice maker**<br>`teal` |
-| ![](https://imgur.com/kC0Gkeq.png)<br>**Shell arch** | craftable, need materials |
-| ![](https://imgur.com/bEeJN8R.png)<br>**Shell lamp** | craftable, need materials |
-| ![](https://imgur.com/GtyEUzJ.png)<br>**Shell table** | craftable, need materials |
+| ![](https://imgur.com/kC0Gkeq.png)<br>**Shell arch** | _craftable!_, please provide materials |
+| ![](https://imgur.com/bEeJN8R.png)<br>**Shell lamp** | _craftable!_, please provide materials |
+| ![](https://imgur.com/GtyEUzJ.png)<br>**Shell table** | _craftable!_, please provide materials |
 | ![](https://imgur.com/706anWa.png)<br>**Silver mic** |
 | ![](https://imgur.com/XuoSfWS.png)<br>**Simple kettle**<br>`black` |
 | ![](https://imgur.com/b2XBjuf.png)<br>**Simple medium avocado mat** |
@@ -142,7 +142,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/uT7nR17.png)<br>**Typewriter**<br>`black` |
 | ![](https://imgur.com/96EyV6k.png)<br>**Velvet stool** |
 | ![](https://imgur.com/naT99pw.png)<br>**Wall-mounted tool board**<br>`blue` |
-| ![](https://imgur.com/zPoweGc.png)<br>**Weight bench** | 5.4k Bells |
+| ![](https://imgur.com/zPoweGc.png)<br>**Weight bench** | 5,400 Bells |
 | ![](https://imgur.com/5KXt3dQ.png)<br>**White wooden deck rug** |
 | ![](https://imgur.com/6PITKOn.png)<br>**Wind turbine**<br>`blue` | Nook Miles |
 | ![](https://imgur.com/Nux9rdL.png)<br>**Wooden bookshelf**  | craftable,need materials |
@@ -162,7 +162,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/cX9tJyk.png)<br>**Blue design kitchen mat** |
 | ![](https://imgur.com/ngvHLiq.png)<br>**Book stands**<br>`pastel` |
 | ![](https://imgur.com/RfN3xr4.png)<br>**Coconut juice** |
-| ![](https://imgur.com/QbzOPtd.png)<br>**Coconut wall planter** | craftable, can provide materials |
+| ![](https://imgur.com/QbzOPtd.png)<br>**Coconut wall planter** | _craftable!_, will provide materials |
 | ![](https://imgur.com/HZY3OQX.png)<br>**Cone**<br>`orange stripe` |
 | ![](https://imgur.com/MGBtaAS.png)<br>**Cute chair**<br>`red`, `pink`| ⭐ priority |
 | ![](https://imgur.com/oGs60wR.png)<br>**Cute wall-mounted clock**<br>`pink`, `yellow`, `aqua` |
@@ -183,7 +183,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/btslrRU.png)<br>**Hammock**<br>`any` |
 | ![](https://imgur.com/yXK5o6l.png)<br>**Hanging terrarium** | ⭐ priority |
 | ![](https://imgur.com/oIbpGGc.png)<br>**Imperial partition**<br>`red`| |
-| ![](https://imgur.com/KicgJzV.png)<br>**Iron wall rack**<br>`any` | craftable, can provide materials |
+| ![](https://imgur.com/KicgJzV.png)<br>**Iron wall rack**<br>`any` | _craftable!_, will provide materials |
 | ![](https://imgur.com/ELfz1i9.png)<br>**Laptop**<br>`pink`, `silver` | ⭐ priority |
 | ![](https://imgur.com/twyyXSF.png)<br>**Lawn chair**<br>`any` |
 | ![](https://imgur.com/W7TJpXD.png)<br>**Mama panda** | ⭐ priority |
@@ -206,23 +206,23 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/CmUXM55.png)<br>**Red Persian rug** |
 | ![](https://imgur.com/abnWUR5.png)<br>**Red round mat**<br>`any` |
 | ![](https://imgur.com/0Guktxa.png)<br>**Sandcastle**<br>`any` |
-| ![](https://imgur.com/dhIWWmp.png)<br>**Shell partition**<br>`pearl` | ⭐ priority<br /><br />craftable, can provide materials |
-| ![](https://imgur.com/z31HwSP.png)<br>**Shell fountain**<br>`pearl` | ⭐ priority<br /><br />craftable, can provide materials |
-| ![](https://imgur.com/TtaC6TW.png)<br>**Shell speaker**<br>`pearl` | ⭐ priority<br /><br />craftable, can provide materials |
+| ![](https://imgur.com/dhIWWmp.png)<br>**Shell partition**<br>`pearl` | ⭐ priority<br /><br />_craftable!_, will provide materials |
+| ![](https://imgur.com/z31HwSP.png)<br>**Shell fountain**<br>`pearl` | ⭐ priority<br /><br />_craftable!_, will provide materials |
+| ![](https://imgur.com/TtaC6TW.png)<br>**Shell speaker**<br>`pearl` | ⭐ priority<br /><br />_craftable!_, will provide materials |
 | ![](https://imgur.com/rYOmnU7.png)<br>**Soothing tea room wall** |
 | ![](https://imgur.com/6KhQXNc.png)<br>**Spinning wheel** |
-| ![](https://imgur.com/pEWsJEO.png)<br>**Stack of magazines**<br>`manga` | ⭐ priority<br /><br />craftable, can provide materials |
+| ![](https://imgur.com/pEWsJEO.png)<br>**Stack of magazines**<br>`manga` | ⭐ priority<br /><br />_craftable!_, will provide materials |
 | ![](https://imgur.com/KnL22M5.png)<br>**Surfboard**<br>`red`, `blue stripes` |
 | ![](https://imgur.com/2Zb4EWZ.png)<br>**Synthesizer**<br>`any` |
 | ![](https://imgur.com/GOpOqVn.png)<br>**Telescope** |
-| ![](https://imgur.com/3OWJp1u.png)<br>**Terrarium** | craftable, can provide materials |
-| ![](https://imgur.com/PPdygEx.png)<br>**Tiny library**<br>`any` | craftable, can provide materials |
+| ![](https://imgur.com/3OWJp1u.png)<br>**Terrarium** | _craftable!_, will provide materials |
+| ![](https://imgur.com/PPdygEx.png)<br>**Tiny library**<br>`any` | _craftable!_, will provide materials |
 | ![](https://imgur.com/oJXyCm1.png)<br>**Toolbox**<br>`any` |
 | ![](https://imgur.com/9BcHyCJ.png)<br>**Tool cart**<br>`red`, `yellow`, `blue` |
 | ![](https://imgur.com/87a4e5G.png)<br>**Tool shelf**<br>`black`, `white` |
 | ![](https://imgur.com/S29XnQp.png)<br>**Traditional tea set**<br>`any`  |
 | ![](https://imgur.com/PjMpmwM.png)<br>**Tricycle**<br>`any` |
-| ![](https://imgur.com/rvNXFBU.png)<br>**Unglazed dish set**<br>`black`  | craftable, can provide materials |
+| ![](https://imgur.com/rvNXFBU.png)<br>**Unglazed dish set**<br>`black`  | _craftable!_, will provide materials |
 | ![](https://imgur.com/g70dUrG.png)<br>**Wall fan**<br>`any` |
 | ![](https://imgur.com/bXwlr1U.png)<br>**Whiteboard**<br>`any` |
 | ![](https://imgur.com/cUldthB.png)<br>**White subway tile wall** |
