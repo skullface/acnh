@@ -8,7 +8,7 @@ Here’s my catalog of tradeables and my wishlist for housewares, miscellaneous,
 | Item | Description | Notes |
 | --- | --- | --- |
 | ![](https://imgur.com/VTEoxiR.png) | **Amp**<br>`black`, `pink` | |
-| ![](https://imgur.com/Hhg37Ut.png) | **Baby chair**<br>`pink/bear` | |
+| ![](https://imgur.com/Hhg37Ut.png) | **Baby chair**<br>`pink bear` | |
 | ![](https://imgur.com/qESmNb9.png) | **Baby panda** | |
 | ![](https://imgur.com/h2kfbPu.png) | **Basketball hoop**<br>`blue` | 11k Bells |
 | ![](https://imgur.com/eT5W0oD.png) | **Beaded curtain wall** | |
@@ -112,7 +112,10 @@ Here’s my catalog of tradeables and my wishlist for housewares, miscellaneous,
 | ![](https://imgur.com/LTk1a39.png) | **Sewing machine**<br>`blue`, `black` | |
 | ![](https://imgur.com/74J1DWu.png) | **Sewing project**<br>`blue` | |
 | ![](https://imgur.com/U7Z0SxZ.png) | **Shaved ice maker**<br>`teal` | |
-| ![](https://imgur.com/706anWa.png) | **Silver mic ** | |
+| ![](https://imgur.com/kC0Gkeq.png) | **Shell arch** | craftable,<br>need materials |
+| ![](https://imgur.com/bEeJN8R.png) | **Shell lamp** | craftable,<br>need materials |
+| ![](https://imgur.com/GtyEUzJ.png) | **Shell table** | craftable,<br>need materials |
+| ![](https://imgur.com/706anWa.png) | **Silver mic** | |
 | ![](https://imgur.com/XuoSfWS.png) | **Simple kettle**<br>`black` | |
 | ![](https://imgur.com/b2XBjuf.png) | **Simple medium avocado mat** | |
 | ![](https://imgur.com/MiQpVdr.png) | **Simple pink bath mat** | |
