@@ -17,7 +17,7 @@
 <p align="center">
   <strong>
     Looking for my catalog or wishlist?
-  </strong><br>🏡 <a href="https://github.com/skullface/acnh/blob/trading/trading/home.md">Furniture/Housewares</a> &nbsp; &nbsp; 👚 <a href="https://github.com/skullface/acnh/blob/trading/trading/closet.md">Clothing/Accessories</a>
+  </strong><br>🏡 <a href="https://github.com/skullface/acnh/blob/trading/home.md">Furniture/Housewares</a> &nbsp; &nbsp; 👚 <a href="https://github.com/skullface/acnh/blob/trading/trading/closet.md">Clothing/Accessories</a>
 </p>
 
 ---
