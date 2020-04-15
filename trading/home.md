@@ -41,6 +41,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/OQ3eoaV.png)<br>**Cute music player**<br>`aqua`, `yellow` |
 | ![](https://imgur.com/DK5GTfX.png)<br>**Cute-paint flooring** |
 | ![](https://imgur.com/CNaCq05.png)<br>**Cute red wall** |
+| ![](https://imgur.com/lQVT0aC.png)<br>**Cute white wall** |
 | ![](https://imgur.com/zeZn13X.png)<br>**Cotton candy stall**<br>`pastel` |
 | ![](https://imgur.com/f2zDKuh.png)<br>**Dark herringbone flooring** |
 | ![](https://imgur.com/VBSD1q2.png)<br>**Den desk**<br>`dark wood` | 10,000 Bells |
@@ -86,6 +87,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/f9w8ml2.png)<br>**Macrame tapestry**<br>`white` |
 | ![](https://imgur.com/UqaKfPm.png)<br>**Magnetic knife rack**<br>`pop` |
 | ![](https://imgur.com/CDdPUcq.png)<br>**Mama bear**<br>`tweed`, `cream` |
+| ![](https://imgur.com/W7TJpXD.png)<br>**Mama panda** |
 | ![](https://imgur.com/0bgAEVi.png)<br>**Marimba** |
 | ![](https://imgur.com/NGkLrl2.png)<br>**Microscope**<br>`black` |
 | ![](https://imgur.com/Z5cI3cD.png)<br>**Mini-cactus set**| |
@@ -176,7 +178,6 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/HZY3OQX.png)<br>**Cone**<br>`orange stripe` |
 | ![](https://imgur.com/MGBtaAS.png)<br>**Cute chair**<br>`red`, `pink`| ⭐ priority |
 | ![](https://imgur.com/oGs60wR.png)<br>**Cute wall-mounted clock**<br>`pink`, `yellow`, `aqua` |
-| ![](https://imgur.com/lQVT0aC.png)<br>**Cute white wall** |
 | ![](https://imgur.com/UWJcsbC.png)<br>**Desktop computer**<br>`pink` |
 | ![](https://imgur.com/0DshfFu.png)<br>**DIY workbench** |
 | ![](https://imgur.com/OFdyuBY.png)<br>**Diner counter chair**<br>`red`  | ⭐ priority |
@@ -193,7 +194,6 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/KicgJzV.png)<br>**Iron wall rack** | DIY Recipe card |
 | ![](https://imgur.com/ELfz1i9.png)<br>**Laptop**<br>`pink`, `silver` | ⭐ priority |
 | ![](https://imgur.com/twyyXSF.png)<br>**Lawn chair**<br>`any` |
-| ![](https://imgur.com/W7TJpXD.png)<br>**Mama panda** | ⭐ priority |
 | ![](https://imgur.com/wBfHNiV.png)<br>**Menu chalkboard**<br>`red` |
 | ![](https://imgur.com/yJYbiUz.png)<br>**Mobile**<br>`sheep` |
 | ![](https://imgur.com/XBSy5Cv.png)<br>**Natural wooden deck rug** |
