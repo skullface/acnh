@@ -1,7 +1,7 @@
 [**Skip to wishlist &darr;**](#want)<br>
 Here’s my catalog of tradeables and my wishlist for housewares, miscellaneous, wall-mounteds, rugs, wallpapers, and flooring!
 
-I’m happy to trade for/freely send anything under 5,000 Bells~
+I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles items, please send me a Nook Miles ticket in exchange.
 
 ---
 
@@ -10,14 +10,19 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | Item | Notes |
 |:---:|:--- |
 | ![](https://imgur.com/VTEoxiR.png)<br>**Amp**<br>`black`, `pink` |
+| ![](https://imgur.com/45ohEeX.png)<br>**Anatomical model** |
+| ![](https://imgur.com/G1OfOYh.png)<br>**Anthurium**<br>`any` |
+| ![](https://imgur.com/tdE0GlK.png)<br>**Beach chair**<br>`white` | 
 | ![](https://imgur.com/Hhg37Ut.png)<br>**Baby chair**<br>`pink bear` |
 | ![](https://imgur.com/qESmNb9.png)<br>**Baby panda** |
+| ![](https://imgur.com/jYWnJ3t.png)<br>**Basic teacher’s desk**<br>`monotone` |
 | ![](https://imgur.com/h2kfbPu.png)<br>**Basketball hoop**<br>`blue` | 11,000 Bells |
 | ![](https://imgur.com/eT5W0oD.png)<br>**Beaded curtain wall** |
 | ![](https://imgur.com/1yLZR2e.png)<br>**Beekeeper’s hive**  | _craftable!_, please provide materials |
 | ![](https://imgur.com/uXoWUdy.png)<br>**Blue stripes rug**  |
 | ![](https://imgur.com/Z8StApv.png)<br>**Blue-striped wall** |
 | ![](https://imgur.com/qytG4Px.png)<br>**Book**<br>`Japanese` |
+| ![](https://imgur.com/ngvHLiq.png)<br>**Book stands**<br>`pastel` |
 | ![](https://imgur.com/cIr6X3O.png)<br>**Candy machine**<br>`pink` |
 | ![](https://imgur.com/PwxJ5KW.png)<br>**Cardboard box**<br>`momo` |
 | ![](https://imgur.com/10p1vfC.png)<br>**Cartoonist’s set**<br>`silver`, `pink` |
@@ -25,6 +30,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/tOXV5Nr.png)<br>**Cat tower**<br>`pink` |
 | ![](https://imgur.com/iFORYno.png)<br>**Clay furnace** |
 | ![](https://imgur.com/Uimq11U.png)<br>**Climbing wall**<br>`natural` |
+| ![](https://imgur.com/RfN3xr4.png)<br>**Coconut juice** |
 | ![](https://imgur.com/GSAjndr.png)<br>**Coffee cup**<br>`white`, `yellow polkadots` |
 | ![](https://imgur.com/wqtAsvl.png)<br>**Construction sign** <br>`Mail` | Nook Miles |
 | ![](https://imgur.com/iMPOV5S.png)<br>**Corkboard**<br>`natural` |
@@ -39,6 +45,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/f2zDKuh.png)<br>**Dark herringbone flooring** |
 | ![](https://imgur.com/VBSD1q2.png)<br>**Den desk**<br>`dark wood` | 10,000 Bells |
 | ![](https://imgur.com/EFosBnT.png)<br>**Digital alarm clock**<br>`cream` |
+| ![](https://imgur.com/HQSNfMO.png)<br>**Diner chair**<br>`red` |
 | ![](https://imgur.com/HPayQ45.png)<br>**Diner counter table**<br>`red` | 6,000 Bells |
 | ![](https://imgur.com/vUFgbPV.png)<br>**Diner dining table**<br>`red` | 6.4,000 Bells |
 | ![](https://imgur.com/s848l3K.png)<br>**Diner mini table**<br>`red`, `cream` |
@@ -46,6 +53,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/BGihEWL.png)<br>**Diner sofa**<br>`red` |
 | ![](https://imgur.com/lS3zoHQ.png)<br>**Dolly**<br>`red` |
 | ![](https://imgur.com/lthmo90.png)<br>**Drink machine**<br/>`blue` | Nook Miles |
+| ![](https://imgur.com/3AoRMUL.png)<br>**Espresso maker**<br>`black` |
 | ![](https://imgur.com/Lr5FPla.png)<br>**Film projector** |
 | ![](https://imgur.com/i7aN7nk.png)<br>**Floating biotope planter**<br>`artistic blue` |
 | ![](https://imgur.com/e6S24r7.png)<br>**Floor sign**<br>`warning` |
@@ -58,6 +66,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/7zwhIEP.png)<br>**Globe**<br>`sepia`  |
 | ![](https://imgur.com/HRb1NXF.png)<br>**Go board** |
 | ![](https://imgur.com/RvAD4XF.png)<br>**Golden floor** | _craftable!_, please provide materials |
+| ![](https://imgur.com/btslrRU.png)<br>**Hammock**<br>`brown`, `black` |
 | ![](https://imgur.com/z9XHI3B.png)<br>**Hamster cage**<br>`blue` |
 | ![](https://imgur.com/62o6qJx.png)<br>**Hand cart**<br>`red`, `green` |
 | ![](https://imgur.com/NzO7BBM.png)<br>**Harmonious wall**| |
@@ -95,6 +104,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/uSNjFbX.png)<br>**Plastic canister**<br>`white` |
 | ![](https://imgur.com/Ye8sjEA.png)<br>**Plastic pool**<br>`polka dots`, `green` |
 | ![](https://imgur.com/XAkkNqv.png)<br>**Playground gym**<br>`colorful` | Nook Miles |
+| ![](https://imgur.com/mOfHnrh.png)<br>**Poolside bed**<br>`light brown` |
 | ![](https://imgur.com/wZmeQvI.png)<br>**Popcorn machine**<br>`red` |
 | ![](https://imgur.com/hm2Q3Tg.png)<br>**Portable record player**<br>`black/red` |
 | ![](https://imgur.com/LXABN6W.png)<br>**Portable toilet**<br>`gray` | Nook Miles |
@@ -123,6 +133,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/MiQpVdr.png)<br>**Simple pink bath mat** |
 | ![](https://imgur.com/mAce9Ux.png)<br>**Skeleton** |
 | ![](https://imgur.com/yQukEvS.png)<br>**Snack machine**<br>`red` |
+| ![](https://imgur.com/6KhQXNc.png)<br>**Spinning wheel** |
 | ![](https://imgur.com/5qLH8Ja.png)<br>**Soft-serve lamp**<br>`strawberry swirl` |
 | ![](https://imgur.com/SLE9HAm.png)<br>**Springy ride-on**<br>`yellow` | Nook Miles |
 | ![](https://imgur.com/1RmVQpt.png)<br>**Stand mixer**<br>`red` |
@@ -139,6 +150,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/onsieu7.png)<br>**Tissue box**<br>`rattan` |
 | ![](https://imgur.com/Wd9zgCv.png)<br>**Tool cart**<br>`green` |
 | ![](https://imgur.com/RG9FUYK.png)<br>**Tourist telescope**<br>`gray` | Nook Miles |
+| ![](https://imgur.com/S29XnQp.png)<br>**Traditional tea set**<br>`Goldfish`  |
 | ![](https://imgur.com/uT7nR17.png)<br>**Typewriter**<br>`black` |
 | ![](https://imgur.com/96EyV6k.png)<br>**Velvet stool** |
 | ![](https://imgur.com/naT99pw.png)<br>**Wall-mounted tool board**<br>`blue` |
@@ -155,35 +167,27 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 
 | Item | Notes |
 |:---:|:--- |
-| ![](https://imgur.com/45ohEeX.png)<br>**Anatomical model** |
-| ![](https://imgur.com/G1OfOYh.png)<br>**Anthurium**<br>`any` |
-| ![](https://imgur.com/tdE0GlK.png)<br>**Beach chair**<br>`any` | ⭐ priority |
 | ![](https://imgur.com/ehilpst.png)<br>**Beach towel**<br>`any` | ⭐ priority |
 | ![](https://imgur.com/cX9tJyk.png)<br>**Blue design kitchen mat** |
-| ![](https://imgur.com/ngvHLiq.png)<br>**Book stands**<br>`pastel` |
-| ![](https://imgur.com/RfN3xr4.png)<br>**Coconut juice** |
-| ![](https://imgur.com/QbzOPtd.png)<br>**Coconut wall planter** | _craftable!_, will provide materials |
+| ![](https://imgur.com/QbzOPtd.png)<br>**Coconut wall planter** | DIY Recipe card |
 | ![](https://imgur.com/HZY3OQX.png)<br>**Cone**<br>`orange stripe` |
 | ![](https://imgur.com/MGBtaAS.png)<br>**Cute chair**<br>`red`, `pink`| ⭐ priority |
 | ![](https://imgur.com/oGs60wR.png)<br>**Cute wall-mounted clock**<br>`pink`, `yellow`, `aqua` |
 | ![](https://imgur.com/lQVT0aC.png)<br>**Cute white wall** |
 | ![](https://imgur.com/UWJcsbC.png)<br>**Desktop computer**<br>`pink` |
 | ![](https://imgur.com/0DshfFu.png)<br>**DIY workbench** |
-| ![](https://imgur.com/HQSNfMO.png)<br>**Diner chair**<br>`red` | ⭐ priority |
 | ![](https://imgur.com/OFdyuBY.png)<br>**Diner counter chair**<br>`red`  | ⭐ priority |
 | ![](https://imgur.com/ueFkKTA.png)<br>**Double-sided wall clock**<br>`black`, `white`, `silver` |
 | ![](https://imgur.com/CSMhdkp.png)<br>**Drum set**<br>`any` |
 | ![](https://imgur.com/W68U1r7.png)<br>**Effects rack**<br>`any` |
-| ![](https://imgur.com/7dZjNxS.png)<br>**Espresso maker**<br>`any` | ⭐ priority |
 | ![](https://imgur.com/xnmVNbg.png)<br>**Floor lamp**<br>`white/pink` |
 | ![](https://imgur.com/g9q2WJl.png)<br>**Fluffy rug** |
 | ![](https://imgur.com/Q0k2eYD.png)<br>**Fragrance sticks**<br>`black`, `blue` |
 | ![](https://imgur.com/rEUctjs.png)<br>**Frozen treat set**<br>`any` | ⭐ priority |
 | ![](https://imgur.com/WyMhusd.png)<br>**Gas range**<br>`silver preferably` |
-| ![](https://imgur.com/btslrRU.png)<br>**Hammock**<br>`any` |
 | ![](https://imgur.com/yXK5o6l.png)<br>**Hanging terrarium** | ⭐ priority |
 | ![](https://imgur.com/oIbpGGc.png)<br>**Imperial partition**<br>`red`| |
-| ![](https://imgur.com/KicgJzV.png)<br>**Iron wall rack**<br>`any` | _craftable!_, will provide materials |
+| ![](https://imgur.com/KicgJzV.png)<br>**Iron wall rack** | DIY Recipe card |
 | ![](https://imgur.com/ELfz1i9.png)<br>**Laptop**<br>`pink`, `silver` | ⭐ priority |
 | ![](https://imgur.com/twyyXSF.png)<br>**Lawn chair**<br>`any` |
 | ![](https://imgur.com/W7TJpXD.png)<br>**Mama panda** | ⭐ priority |
@@ -199,7 +203,6 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/oUhwrgx.png)<br>**Picnic basket**<br>`red`, `pastel` |
 | ![](https://imgur.com/Z29b5fA.png)<br>**Pink heart rug** |
 | ![](https://imgur.com/CQAOFqM.png)<br>**Plastic pool**<br>`blue` |
-| ![](https://imgur.com/mOfHnrh.png)<br>**Poolside bed**<br>`any` |
 | ![](https://imgur.com/2Vk4NqL.png)<br>**Pot rack**<br>`wood`, `white`| |
 | ![](https://imgur.com/tq7QPFd.png)<br>**Public bench**<br>`white`, `blue`, `red` | ⭐ priority |
 | ![](https://imgur.com/XFNPDbq.png)<br>**Record box**<br>`any` |
@@ -208,9 +211,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/0Guktxa.png)<br>**Sandcastle**<br>`any` |
 | ![](https://imgur.com/dhIWWmp.png)<br>**Shell partition**<br>`pearl` | ⭐ priority<br /><br />_craftable!_, will provide materials |
 | ![](https://imgur.com/z31HwSP.png)<br>**Shell fountain**<br>`pearl` | ⭐ priority<br /><br />_craftable!_, will provide materials |
-| ![](https://imgur.com/TtaC6TW.png)<br>**Shell speaker**<br>`pearl` | ⭐ priority<br /><br />_craftable!_, will provide materials |
 | ![](https://imgur.com/rYOmnU7.png)<br>**Soothing tea room wall** |
-| ![](https://imgur.com/6KhQXNc.png)<br>**Spinning wheel** |
 | ![](https://imgur.com/pEWsJEO.png)<br>**Stack of magazines**<br>`manga` | ⭐ priority<br /><br />_craftable!_, will provide materials |
 | ![](https://imgur.com/KnL22M5.png)<br>**Surfboard**<br>`red`, `blue stripes` |
 | ![](https://imgur.com/2Zb4EWZ.png)<br>**Synthesizer**<br>`any` |
@@ -220,7 +221,6 @@ I’m happy to trade for/freely send anything under 5,000 Bells~
 | ![](https://imgur.com/oJXyCm1.png)<br>**Toolbox**<br>`any` |
 | ![](https://imgur.com/9BcHyCJ.png)<br>**Tool cart**<br>`red`, `yellow`, `blue` |
 | ![](https://imgur.com/87a4e5G.png)<br>**Tool shelf**<br>`black`, `white` |
-| ![](https://imgur.com/S29XnQp.png)<br>**Traditional tea set**<br>`any`  |
 | ![](https://imgur.com/PjMpmwM.png)<br>**Tricycle**<br>`any` |
 | ![](https://imgur.com/rvNXFBU.png)<br>**Unglazed dish set**<br>`black`  | _craftable!_, will provide materials |
 | ![](https://imgur.com/g70dUrG.png)<br>**Wall fan**<br>`any` |
