@@ -149,8 +149,9 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/SBNmMyP.png)<br>**Throwback skull radio**<br>`white` |
 | ![](https://imgur.com/onsieu7.png)<br>**Tissue box**<br>`rattan` |
 | ![](https://imgur.com/Wd9zgCv.png)<br>**Tool cart**<br>`green` |
+| ![](https://imgur.com/LDQO8Ca.png)<br>**Tool shelf**<br>`white` |
 | ![](https://imgur.com/RG9FUYK.png)<br>**Tourist telescope**<br>`gray` | Nook Miles |
-| ![](https://imgur.com/S29XnQp.png)<br>**Traditional tea set**<br>`Goldfish`  |
+| ![](https://imgur.com/S29XnQp.png)<br>**Traditional tea set**<br>`goldfish`  |
 | ![](https://imgur.com/uT7nR17.png)<br>**Typewriter**<br>`black` |
 | ![](https://imgur.com/96EyV6k.png)<br>**Velvet stool** |
 | ![](https://imgur.com/naT99pw.png)<br>**Wall-mounted tool board**<br>`blue` |
@@ -168,6 +169,8 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | Item | Notes |
 |:---:|:--- |
 | ![](https://imgur.com/ehilpst.png)<br>**Beach towel**<br>`any` | ⭐ priority |
+| ![](https://imgur.com/uz5Ho7l.png)<br>**Beach ball**<br>`any` |  |
+| ![](https://imgur.com/jj8ttnR.png)<br>**Beach umbrella** |  |
 | ![](https://imgur.com/cX9tJyk.png)<br>**Blue design kitchen mat** |
 | ![](https://imgur.com/QbzOPtd.png)<br>**Coconut wall planter** | DIY Recipe card |
 | ![](https://imgur.com/HZY3OQX.png)<br>**Cone**<br>`orange stripe` |
@@ -220,7 +223,6 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/PPdygEx.png)<br>**Tiny library**<br>`any` | _craftable!_, will provide materials |
 | ![](https://imgur.com/oJXyCm1.png)<br>**Toolbox**<br>`any` |
 | ![](https://imgur.com/9BcHyCJ.png)<br>**Tool cart**<br>`red`, `yellow`, `blue` |
-| ![](https://imgur.com/87a4e5G.png)<br>**Tool shelf**<br>`black`, `white` |
 | ![](https://imgur.com/PjMpmwM.png)<br>**Tricycle**<br>`any` |
 | ![](https://imgur.com/rvNXFBU.png)<br>**Unglazed dish set**<br>`black`  | _craftable!_, will provide materials |
 | ![](https://imgur.com/g70dUrG.png)<br>**Wall fan**<br>`any` |
