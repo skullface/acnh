@@ -244,3 +244,9 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/bXwlr1U.png) | **Whiteboard**<br>`any` |
 | ![](https://imgur.com/cUldthB.png) | **White subway tile wall** |
 | ![](https://imgur.com/2PmUzCG.png) | **Writing poster**<br>`Periodic table` |
+
+---
+
+[**Scroll to top of wishlist &uarr;**](#want)<br>	
+[**Scroll to top of catalog list &uarr;**](#have)<br>	
+[**Go to clothing/wearables list &rarr;**](closet.md)
