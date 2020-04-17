@@ -1,7 +1,7 @@
 [**Skip to wishlist &darr;**](#want)<br>
 Here’s my catalog of tradeables and my wishlist for housewares, miscellaneous, wall-mounteds, rugs, wallpapers, and flooring!
 
-I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles items, please send me a Nook Miles ticket in exchange.	
+I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles items, please send me a Nook Miles ticket in exchange.
 
 ---
 
