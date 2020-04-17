@@ -128,7 +128,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/XAkkNqv.png)<br>**Playground gym**<br>`colorful` | Nook Miles |
 | ![](https://imgur.com/mOfHnrh.png)<br>**Poolside bed**<br>`light brown` |
 | ![](https://imgur.com/wZmeQvI.png)<br>**Popcorn machine**<br>`red` |
-| ![](https://imgur.com/hm2Q3Tg.png)<br>**Portable record player**<br>`black/red` |
+| ![](https://imgur.com/Jlp8VNN.png)<br>**Portable record player**<br>`black/red` |
 | ![](https://imgur.com/LXABN6W.png)<br>**Portable toilet**<br>`gray` | Nook Miles |
 | ![](https://imgur.com/2Vk4NqL.png)<br>**Pot rack**<br>`wood`| |
 | ![](https://imgur.com/X1Fb8TR.png)<br>**Protein shaker bottle**<br>`strawberry` |
