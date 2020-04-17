@@ -1,4 +1,25 @@
-#### Catalog
+[**Skip to wishlist &darr;**](#want)<br>	
+Here’s my catalog of tradeables and my wishlist for housewares, miscellaneous, wall-mounteds, rugs, wallpapers, and flooring!	
+
+I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles items, please send me a Nook Miles ticket in exchange.	
+
+---	
+
+## Have 	
+
+### Craftable recipes	
+
+| Item | Notes |	
+|:---:|:--- |	
+| ![](https://imgur.com/1yLZR2e.png) | **Beekeeper’s hive**<br>`3 wasp nest`<br>`5 wood`<br><br><sup>🎨 _customizable_</sup> |	
+| ![](https://imgur.com/RvAD4XF.png) | **Golden floor**<br>`4 gold nugget` |	
+| ![](https://imgur.com/kC0Gkeq.png) | **Shell arch**<br>please provide materials<br><br><sup>🎨 _customizable_</sup> |	
+| ![](https://imgur.com/bEeJN8R.png) | **Shell lamp**<br>please provide materials<br><br><sup>🎨 _customizable_</sup> |	
+| ![](https://imgur.com/GtyEUzJ.png) | **Shell table**<br>please provide materials<br><br><sup>🎨 _customizable_</sup> |	
+| ![](https://imgur.com/Nux9rdL.png) | **Wooden bookshelf**<br>`5 book`<br>`10 wood`<br><br><sup>🎨 _customizable_</sup> |	
+
+
+### Catalog
 | Item | Notes |
 |:---:|:--- |
 | ![](https://imgur.com/VTEoxiR.png) | **Amp**<br>`black`, `pink` |
@@ -14,7 +35,7 @@
 | ![](https://imgur.com/uXoWUdy.png) | **Blue stripes rug**  |
 | ![](https://imgur.com/Z8StApv.png) | **Blue-striped wall** |
 | ![](https://imgur.com/qytG4Px.png) | **Book**<br>`Japanese` |
-| ![](https://imgur.com/ngvHLiq.png) | **Book stands**<br>`pastel` |
+| ![](https://imgur.com/ngvHLiq.png) | **Book stands**<br>`pastel`, `brown` |
 | ![](https://imgur.com/C23pe0X.png) | **Cacao tree**<br> |
 | ![](https://imgur.com/cIr6X3O.png) | **Candy machine**<br>`pink` |
 | ![](https://imgur.com/PwxJ5KW.png) | **Cardboard box**<br>`momo` |
@@ -25,7 +46,7 @@
 | ![](https://imgur.com/Uimq11U.png) | **Climbing wall**<br>`natural` |
 | ![](https://imgur.com/RfN3xr4.png) | **Coconut juice** |
 | ![](https://imgur.com/GSAjndr.png) | **Coffee cup**<br>`white`, `yellow polkadots` |
-| ![](https://imgur.com/wqtAsvl.png) | **Construction sign** <br>`Mail` | Nook Miles |
+| ![](https://imgur.com/wqtAsvl.png) | **Construction sign** <br>`Mail`<br><br>Nook Miles
 | ![](https://imgur.com/iMPOV5S.png) | **Corkboard**<br>`natural` |
 | ![](https://imgur.com/aJpyFvl.png) | **Crepe-design wall** |
 | ![](https://imgur.com/xZ06qKC.png) | **Cubic parquet flooring** |
@@ -37,17 +58,17 @@
 | ![](https://imgur.com/lQVT0aC.png) | **Cute white wall** |
 | ![](https://imgur.com/zeZn13X.png) | **Cotton candy stall**<br>`pastel` |
 | ![](https://imgur.com/f2zDKuh.png) | **Dark herringbone flooring** |
-| ![](https://imgur.com/CzGBSzi.png) | **Den chair**<br>`camel` | 8,700 Bells |
-| ![](https://imgur.com/VBSD1q2.png) | **Den desk**<br>`dark wood` | 10,000 Bells |
+| ![](https://imgur.com/CzGBSzi.png) | **Den chair**<br>`camel`<br><br>8,700 Bells |
+| ![](https://imgur.com/VBSD1q2.png) | **Den desk**<br>`dark wood`<br><br>10,000 Bells |
 | ![](https://imgur.com/EFosBnT.png) | **Digital alarm clock**<br>`cream` |
 | ![](https://imgur.com/HQSNfMO.png) | **Diner chair**<br>`red` |
-| ![](https://imgur.com/HPayQ45.png) | **Diner counter table**<br>`red` | 6,000 Bells |
-| ![](https://imgur.com/vUFgbPV.png) | **Diner dining table**<br>`red` | 6.4,000 Bells |
+| ![](https://imgur.com/HPayQ45.png) | **Diner counter table**<br>`red`<br><br>6,000 Bells |
+| ![](https://imgur.com/vUFgbPV.png) | **Diner dining table**<br>`red`<br><br>6,400 Bells |
 | ![](https://imgur.com/s848l3K.png) | **Diner mini table**<br>`red`, `cream` |
 | ![](https://imgur.com/ChhAbQ6.png) | **Diner neon clock**<br>`yellow` |
 | ![](https://imgur.com/BGihEWL.png) | **Diner sofa**<br>`red` |
 | ![](https://imgur.com/lS3zoHQ.png) | **Dolly**<br>`red`, `blue` |
-| ![](https://imgur.com/lthmo90.png) | **Drink machine**<br/>`blue` | Nook Miles |
+| ![](https://imgur.com/lthmo90.png) | **Drink machine**<br/>`blue`<br><br>Nook Miles |
 | ![](https://imgur.com/AzKIlTT.png) | **Drum set**<br>`golden yellow`, `black` |
 | ![](https://imgur.com/iPUsVlU.png) | **Electric kick scooter**<br>`yellow` |
 | ![](https://imgur.com/R0uViDU.png) | **Electronics kit**<br>`green` |
@@ -68,19 +89,19 @@
 | ![](https://imgur.com/z9XHI3B.png) | **Hamster cage**<br>`blue` |
 | ![](https://imgur.com/62o6qJx.png) | **Hand cart**<br>`red`, `green` |
 | ![](https://imgur.com/NzO7BBM.png) | **Harmonious wall**| |
-| ![](https://imgur.com/99gak2J.png) | **High-end stereo**| 10,000 Bells |
+| ![](https://imgur.com/99gak2J.png) | **High-end stereo*<br><br>10,000 Bells |
 | ![](https://imgur.com/akRaDd4.png) | **Hose reel**<br>`red` |
-| ![](https://imgur.com/Zzur9h6.png) | **Imperial partition**<br>`brown` |
+| ![](https://imgur.com/Zzur9h6.png) | **Imperial partition**<br>`brown`, `red` |
 | ![](https://imgur.com/fJvfulb.png) | **Incense burner**<br>`green/wood`, `pink/white` |
 | ![](https://imgur.com/9n2zIQK.png) | **Iron entrance mat** |
 | ![](https://imgur.com/LcoHUrU.png) | **Kotatsu** |
 | ![](https://imgur.com/RQt9gkW.png) | **Kitty litter box**<br>`white`, `brown` |
-| ![](https://imgur.com/PGMdJWI.png) | **Lab experiments set** | 6,000 Bells |
+| ![](https://imgur.com/PGMdJWI.png) | **Lab experiments set**<br><br>6,000 Bells |
 | ![](https://imgur.com/5r08Hpc.png) | **Lecture hall bench**<br>`light brown` |
 | ![](https://imgur.com/n7jhqeX.png) | **Lecture hall desk**<br>`light brown` |
-| ![](https://imgur.com/BXpqCV9.png) | **Lifeguard chair**<br>`blue` | Nook Miles |
-| ![](https://imgur.com/PuDGVxM.png) | **Lighthouse**<br>`red` | Nook Miles |
-| ![](https://imgur.com/oQBsuvh.png) | **Long bathtub**<br>`checker tile` | 7,800 Bells |
+| ![](https://imgur.com/BXpqCV9.png) | **Lifeguard chair**<br>`blue`<br><br>Nook Miles |
+| ![](https://imgur.com/PuDGVxM.png) | **Lighthouse**<br>`red`<br><br>Nook Miles |
+| ![](https://imgur.com/oQBsuvh.png) | **Long bathtub**<br>`checker tile`<br><br>7,800 Bells |
 | ![](https://imgur.com/f9w8ml2.png) | **Macrame tapestry**<br>`white` |
 | ![](https://imgur.com/UqaKfPm.png) | **Magnetic knife rack**<br>`pop` |
 | ![](https://imgur.com/CDdPUcq.png) | **Mama bear**<br>`tweed`, `cream` |
@@ -89,11 +110,11 @@
 | ![](https://imgur.com/NGkLrl2.png) | **Microscope**<br>`black` |
 | ![](https://imgur.com/Z5cI3cD.png) | **Mini-cactus set**| |
 | ![](https://imgur.com/Yu30mlZ.png) | **Mobile**<br>`hot air balloons` |
-| ![](https://imgur.com/pmlBhuv.png) | **Monster statue**<br>`blue` | Nook Miles |
-| ![](https://imgur.com/sxJ2eS7.png) | **Mountain bike**<br>`pink`, `green` | 5,100 Bells |
+| ![](https://imgur.com/pmlBhuv.png) | **Monster statue**<br>`blue`<br><br>Nook Miles |
+| ![](https://imgur.com/sxJ2eS7.png) | **Mountain bike**<br>`pink`, `green`<br><br>5,100 Bells |
 | ![](https://imgur.com/TYZsw8H.png) | **Nail art set**<br>`pink` |
-| ![](https://imgur.com/KpNi8ZO.png) | **Parabolic antenna**<br>`Nook Inc.` | Nook Miles |
-| ![](https://imgur.com/unHJdSE.png) | **Park clock**<br>`white` | Nook Miles |
+| ![](https://imgur.com/KpNi8ZO.png) | **Parabolic antenna**<br>`Nook Inc.`<br><br>Nook Miles |
+| ![](https://imgur.com/unHJdSE.png) | **Park clock**<br>`white`<br><br>Nook Miles |
 | ![](https://imgur.com/s1BIvBI.png) | **Peach rug** | craftable |
 | ![](https://imgur.com/rTIXSKO.png) | **Pear rug** | craftable |
 | ![](https://imgur.com/GJDIrU5.png) | **Pedal board**<br>`green` |
@@ -105,24 +126,24 @@
 | ![](https://imgur.com/98fKH7c.png) | **Pink-striped wall** |
 | ![](https://imgur.com/uSNjFbX.png) | **Plastic canister**<br>`white` |
 | ![](https://imgur.com/Ye8sjEA.png) | **Plastic pool**<br>`polka dots`, `green` |
-| ![](https://imgur.com/XAkkNqv.png) | **Playground gym**<br>`colorful` | Nook Miles |
+| ![](https://imgur.com/XAkkNqv.png) | **Playground gym**<br>`colorful`<br><br>Nook Miles |
 | ![](https://imgur.com/mOfHnrh.png) | **Poolside bed**<br>`light brown` |
 | ![](https://imgur.com/wZmeQvI.png) | **Popcorn machine**<br>`red` |
 | ![](https://imgur.com/Jlp8VNN.png) | **Portable record player**<br>`black/red` |
-| ![](https://imgur.com/LXABN6W.png) | **Portable toilet**<br>`gray` | Nook Miles |
+| ![](https://imgur.com/LXABN6W.png) | **Portable toilet**<br>`gray`<br><br>Nook Miles |
 | ![](https://imgur.com/2Vk4NqL.png) | **Pot rack**<br>`wood`| |
 | ![](https://imgur.com/X1Fb8TR.png) | **Protein shaker bottle**<br>`strawberry` |
-| ![](https://imgur.com/g9qwnag.png) | **Public bench**<br>`green/orange` | Nook Miles |
+| ![](https://imgur.com/g9qwnag.png) | **Public bench**<br>`green/orange`<br><br>Nook Miles |
 | ![](https://imgur.com/2NcpD96.png) | **Pull-up-bar stand**<br>`black`  |
 | ![](https://imgur.com/9hIxSFy.png) | **Purple heart rug**  |
 | ![](https://imgur.com/V632eun.png) | **Rattan armchair**<br>`brown` |
 | ![](https://imgur.com/2wTMqCd.png) | **Rattan end table**<br>`white` |
 | ![](https://imgur.com/KBB5S3U.png) | **Rattan towel basket**<br>`natural` |
-| ![](https://imgur.com/DMpu4Fv.png) | **Rattan vanity**<br>`gray` | 5,900 Bells |
-| ![](https://imgur.com/oqC9r9v.png) | **Rattan wardrobe**<br>`brown` | 6,900 Bells |
+| ![](https://imgur.com/DMpu4Fv.png) | **Rattan vanity**<br>`gray`<br><br>5,900 Bells |
+| ![](https://imgur.com/oqC9r9v.png) | **Rattan wardrobe**<br>`brown`<br><br>6,900 Bells |
 | ![](https://imgur.com/XFNPDbq.png) | **Record box**<br>`red` |
 | ![](https://imgur.com/dztahb1.png) | **Red brick wall** |
-| ![](https://imgur.com/pvB6yM7.png) | **Retro stereo**<br>`brown` | 6,000 Bells |
+| ![](https://imgur.com/pvB6yM7.png) | **Retro stereo**<br>`brown`<br><br>6,000 Bells |
 | ![](https://imgur.com/gnQUYOP.png) | **Revolving spice rack**<br>`brown` |
 | ![](https://imgur.com/6AnovA7.png) | **Rock guitar**<br>`natural wood/black` |
 | ![](https://imgur.com/NbRw7L4.png) | **Rotary phone**<br>`black` |
@@ -130,7 +151,7 @@
 | ![](https://imgur.com/LTk1a39.png) | **Sewing machine**<br>`blue`, `black` |
 | ![](https://imgur.com/74J1DWu.png) | **Sewing project**<br>`blue` |
 | ![](https://imgur.com/U7Z0SxZ.png) | **Shaved ice maker**<br>`teal` |
-| ![](https://imgur.com/Pg0P3pj.png) | **Shower booth**<br>`black` | 110,000 Bells |
+| ![](https://imgur.com/Pg0P3pj.png) | **Shower booth**<br>`black`<br><br>110,000 Bells |
 | ![](https://imgur.com/706anWa.png) | **Silver mic** |
 | ![](https://imgur.com/XuoSfWS.png) | **Simple kettle**<br>`black` |
 | ![](https://imgur.com/b2XBjuf.png) | **Simple medium avocado mat** |
@@ -139,15 +160,15 @@
 | ![](https://imgur.com/yQukEvS.png) | **Snack machine**<br>`red` |
 | ![](https://imgur.com/5qLH8Ja.png) | **Soft-serve lamp**<br>`strawberry swirl` |
 | ![](https://imgur.com/6KhQXNc.png) | **Spinning wheel** |
-| ![](https://imgur.com/SLE9HAm.png) | **Springy ride-on**<br>`yellow` | Nook Miles |
+| ![](https://imgur.com/SLE9HAm.png) | **Springy ride-on**<br>`yellow`<br><br>Nook Miles |
 | ![](https://imgur.com/1RmVQpt.png) | **Stand mixer**<br>`red` |
 | ![](https://imgur.com/4362TpE.png) | **Stovetop espresso maker**<br>`black` |
-| ![](https://imgur.com/m0lNJDv.png) | **Streetlamp**<br>`black` | Nook Miles |
+| ![](https://imgur.com/m0lNJDv.png) | **Streetlamp**<br>`black`<br><br>Nook Miles |
 | ![](https://imgur.com/K7NRD50.png) | **Studio wall spotlight**<br>`purple` |
 | ![](https://imgur.com/Szalumu.png) | **Switch**<br>`wood grain` |
 | ![](https://imgur.com/tN2xm4S.png) | **Table setting**<br>`white` |
 | ![](https://imgur.com/PNiJ5UP.png) | **Tapestry**<br>`geometric pattern` |
-| ![](https://imgur.com/w7FSa54.png) | **Teacup ride**<br>`pastel` | Nook Miles |
+| ![](https://imgur.com/w7FSa54.png) | **Teacup ride**<br>`pastel`<br><br>Nook Miles |
 | ![](https://imgur.com/H91SBtf.png) | **Tea set**<br>`red on bamboo` |
 | ![](https://imgur.com/GOpOqVn.png) | **Telescope** |
 | ![](https://imgur.com/YTpMzHp.png) | **Throwback gothic mirror**<br>`red`, `white` |
@@ -156,21 +177,21 @@
 | ![](https://imgur.com/DWE0j1N.png) | **Toolbox**<br>`red` |
 | ![](https://imgur.com/Wd9zgCv.png) | **Tool cart**<br>`green` |
 | ![](https://imgur.com/LDQO8Ca.png) | **Tool shelf**<br>`white` |
-| ![](https://imgur.com/RG9FUYK.png) | **Tourist telescope**<br>`gray` | Nook Miles |
+| ![](https://imgur.com/RG9FUYK.png) | **Tourist telescope**<br>`gray`<br><br>Nook Miles |
 | ![](https://imgur.com/S29XnQp.png) | **Traditional tea set**<br>`goldfish`  |
-| ![](https://imgur.com/AMpgKOB.png) | **Train set**<br>`summer` | 7,9000 Bells |
+| ![](https://imgur.com/AMpgKOB.png) | **Train set**<br>`summer`<br><br>7,9000 Bells |
 | ![](https://imgur.com/uT7nR17.png) | **Typewriter**<br>`black` |
 | ![](https://imgur.com/96EyV6k.png) | **Velvet stool** |
 | ![](https://imgur.com/naT99pw.png) | **Wall-mounted tool board**<br>`blue` |
 | ![](https://imgur.com/zPoweGc.png) | **Weight bench** | 5,400 Bells |
 | ![](https://imgur.com/5KXt3dQ.png) | **White wooden deck rug** |
-| ![](https://imgur.com/6PITKOn.png) | **Wind turbine**<br>`blue` | Nook Miles |
+| ![](https://imgur.com/6PITKOn.png) | **Wind turbine**<br>`blue`<br><br>Nook Miles |
 | ![](https://imgur.com/Jngecrl.png) | **Writing chair**<br>`natural` |
 | ![](https://imgur.com/FljLqoY.png) | **Writing desk**<br>`natural` |
 
 ---
 
-### Want
+## Want
 
 | Item | Notes |
 |:---:|:--- |
@@ -192,7 +213,6 @@
 | ![](https://imgur.com/rEUctjs.png) | **Frozen treat set** ⭐<br>`any` |
 | ![](https://imgur.com/WyMhusd.png) | **Gas range**<br>`silver preferably` |
 | ![](https://imgur.com/yXK5o6l.png) | **Hanging terrarium** ⭐ |
-| ![](https://imgur.com/oIbpGGc.png) | **Imperial partition**<br>`red`| |
 | ![](https://imgur.com/KicgJzV.png) | **Iron wall rack** | DIY Recipe card |
 | ![](https://imgur.com/ELfz1i9.png) | **Laptop** ⭐<br>`pink`, `silver` |
 | ![](https://imgur.com/twyyXSF.png) | **Lawn chair**<br>`any` |
