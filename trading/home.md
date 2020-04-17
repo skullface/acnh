@@ -7,7 +7,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 
 ## Have
 
-### Craftable recipes
+### 🛠️ Craftable recipes
 
 | Item | Notes |	
 |:---:|:--- |	
@@ -19,7 +19,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/Nux9rdL.png) | **Wooden bookshelf**<br>`5 book`<br>`10 wood`<br><br><sup>🎨 _customizable_</sup> |	
 
 
-### Catalog
+### 📖 Catalog
 | Item | Notes |
 |:---:|:--- |
 | ![](https://imgur.com/VTEoxiR.png) | **Amp**<br>`black`, `pink` |
@@ -249,4 +249,4 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 
 [**Scroll to top of wishlist &uarr;**](#want)<br>
 [**Scroll to top of catalog list &uarr;**](#have)<br>
-[**Go to clothing/wearables list &rarr;**](closet.md
+[**Go to clothing/wearables list &rarr;**](closet.md)
