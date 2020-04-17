@@ -174,45 +174,44 @@
 
 | Item | Notes |
 |:---:|:--- |
-| ![](https://imgur.com/ehilpst.png) | **Beach towel**<br>`any`<br><br>⭐ priority |
+| ![](https://imgur.com/ehilpst.png) | **Beach towel** ⭐<br>`any` |
 | ![](https://imgur.com/uz5Ho7l.png) | **Beach ball**<br>`any` |  |
 | ![](https://imgur.com/jj8ttnR.png) | **Beach umbrella** |  |
 | ![](https://imgur.com/cX9tJyk.png) | **Blue design kitchen mat** |
 | ![](https://imgur.com/HZY3OQX.png) | **Cone**<br>`orange stripe` |
-| ![](https://imgur.com/MGBtaAS.png) | **Cute chair**<br>`red`, `pink`<br><br>⭐ priority |
+| ![](https://imgur.com/MGBtaAS.png) | **Cute chair** ⭐<br>`red`, `pink` |
 | ![](https://imgur.com/oGs60wR.png) | **Cute wall-mounted clock**<br>`pink`, `yellow`, `aqua` |
 | ![](https://imgur.com/UWJcsbC.png) | **Desktop computer**<br>`pink` |
 | ![](https://imgur.com/0DshfFu.png) | **DIY workbench** |
-| ![](https://imgur.com/OFdyuBY.png) | **Diner counter chair**<br>`red`<br><br>⭐ priority |
+| ![](https://imgur.com/OFdyuBY.png) | **Diner counter chair** ⭐<br>`red` |
 | ![](https://imgur.com/ueFkKTA.png) | **Double-sided wall clock**<br>`black`, `white`, `silver` |
 | ![](https://imgur.com/W68U1r7.png) | **Effects rack**<br>`any` |
 | ![](https://imgur.com/xnmVNbg.png) | **Floor lamp**<br>`white/pink` |
 | ![](https://imgur.com/g9q2WJl.png) | **Fluffy rug** |
 | ![](https://imgur.com/bqZzSo3.png) | **Folding floor lamp**<br>`mint` |
-| ![](https://imgur.com/Q0k2eYD.png) | **Fragrance sticks**<br>`black`, `blue` |
-| ![](https://imgur.com/rEUctjs.png) | **Frozen treat set**<br>`any`<br><br>⭐ priority |
+| ![](https://imgur.com/rEUctjs.png) | **Frozen treat set** ⭐<br>`any` |
 | ![](https://imgur.com/WyMhusd.png) | **Gas range**<br>`silver preferably` |
-| ![](https://imgur.com/yXK5o6l.png) | **Hanging terrarium**<br><br>⭐ priority |
+| ![](https://imgur.com/yXK5o6l.png) | **Hanging terrarium** ⭐ |
 | ![](https://imgur.com/oIbpGGc.png) | **Imperial partition**<br>`red`| |
 | ![](https://imgur.com/KicgJzV.png) | **Iron wall rack** | DIY Recipe card |
-| ![](https://imgur.com/ELfz1i9.png) | **Laptop**<br>`pink`, `silver`<br><br>⭐ priority |
+| ![](https://imgur.com/ELfz1i9.png) | **Laptop** ⭐<br>`pink`, `silver` |
 | ![](https://imgur.com/twyyXSF.png) | **Lawn chair**<br>`any` |
 | ![](https://imgur.com/wBfHNiV.png) | **Menu chalkboard**<br>`red` |
 | ![](https://imgur.com/yJYbiUz.png) | **Mobile**<br>`sheep` |
 | ![](https://imgur.com/XBSy5Cv.png) | **Natural wooden deck rug** |
 | ![](https://imgur.com/U3AgXCE.png) | **Old-fashioned alarm clock**<br>`aqua` |
-| ![](https://imgur.com/y61TZBz.png) | **Open-frame kitchen**<br><br>⭐ priority |
+| ![](https://imgur.com/y61TZBz.png) | **Open-frame kitchen** ⭐⭐⭐ |
 | ![](https://imgur.com/C7Q4YY9.png) | **Peach stripes rug** |
 | ![](https://imgur.com/4qUugHD.png) | **Pet bed**<br>`white` |
 | ![](https://imgur.com/cuxflp8.png) | **Phone box**<br>`red`, `blue` |
 | ![](https://imgur.com/oUhwrgx.png) | **Picnic basket**<br>`red`, `pastel` |
 | ![](https://imgur.com/CQAOFqM.png) | **Plastic pool**<br>`blue` |
-| ![](https://imgur.com/tq7QPFd.png) | **Public bench**<br>`white`, `blue`, `red`<br><br>⭐ priority |
+| ![](https://imgur.com/tq7QPFd.png) | **Public bench** ⭐<br>`white`, `blue/pink`, `red` |
 | ![](https://imgur.com/CmUXM55.png) | **Red Persian rug** |
 | ![](https://imgur.com/abnWUR5.png) | **Red round mat**<br>`any` |
 | ![](https://imgur.com/0Guktxa.png) | **Sandcastle**<br>`any` |
-| ![](https://imgur.com/dhIWWmp.png) | **Shell partition**<br>`pearl`<br><br>⭐ priority<br />_craftable!_, will provide materials |
-| ![](https://imgur.com/z31HwSP.png) | **Shell fountain**<br>`pearl`<br><br>⭐ priority<br />_craftable!_, will provide materials |
+| ![](https://imgur.com/dhIWWmp.png) | **Shell partition** ⭐<br>`pearl`<br>_craftable!_, will provide materials |
+| ![](https://imgur.com/z31HwSP.png) | **Shell fountain** ⭐<br>`pearl`<br>_craftable!_, will provide materials |
 | ![](https://imgur.com/rYOmnU7.png) | **Soothing tea room wall** |
 | ![](https://imgur.com/KnL22M5.png) | **Surfboard**<br>`red`, `blue stripes` |
 | ![](https://imgur.com/2Zb4EWZ.png) | **Synthesizer**<br>`any` |
