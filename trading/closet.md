@@ -23,6 +23,7 @@ Here’s my catalog of clothing and accessories!
 | <img width="128" height="128" alt="" src="https://imgur.com/md1uUjG.png"> | **Nose drip** |
 | <img width="128" height="128" alt="" src="https://imgur.com/AgBtzUt.png"> | **Pacifier**<br>`baby mint` |
 | <img width="128" height="128" alt="" src="https://imgur.com/xuLaFB2.png"> | **Rainbow umbrella** |
+| <img width="128" height="128" alt="" src="https://imgur.com/8PQkmP6.png"> | **Rainbow sweater**<br>`white` |
 | <img width="128" height="128" alt="" src="https://imgur.com/e6S5MO1.png"> | **Shirt with camera**<br>`black` |
 | <img width="128" height="128" alt="" src="https://imgur.com/PcI1otX.png"> | **Skeleton hood** |
 | <img width="128" height="128" alt="" src="https://imgur.com/xNV5SWT.png"> | **Soft-serve hat**<br>`chocolate/poop` |
@@ -55,7 +56,6 @@ Here’s my catalog of clothing and accessories!
 | <img width="128" height="128" alt="" src="https://imgur.com/85BQ1rT.png"><br>**Frog cap**<br>`green` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/pISglCH.png"><br>**Frog umbrella** | |
 | <img width="128" height="128" alt="" src="https://imgur.com/lFP5cAx.png"><br>**Front-tie button-down shirt**<br>`blue` | |
-| <img width="128" height="128" alt="" src="https://imgur.com/XsQ5u9D.png"><br>**Funny glasses** | |
 | <img width="128" height="128" alt="" src="https://imgur.com/LYWQ1WB.png"><br>**Garter socks**<br>`black` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/SJYfy1i.png"><br>**Giant ribbon**<br>`red` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/5lMR8kg.png"><br>**Ghillie brogues** | |
@@ -63,12 +63,10 @@ Here’s my catalog of clothing and accessories!
 | <img width="128" height="128" alt="" src="https://imgur.com/0mInKjk.png"><br>**House slippers**<br>`any` | ⭐ priority |
 | <img width="128" height="128" alt="" src="https://imgur.com/CtixRNc.png"><br>**Lacy shirt**<br>`black` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/Mz0VfvL.png"><br>**Panda umbrella** | |
-| <img width="128" height="128" alt="" src="https://imgur.com/1UoUP8m.png"><br>**Pleather mask** | ⭐ priority |
 | <img width="128" height="128" alt="" src="https://imgur.com/69cQyD1.png"><br>**Pom-pom boots**<br>`pink` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/3DCmB2e.png"><br>**Pom-pom socks**<br>`pink` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/YKdl8w2.png"><br>**Puffy-sleeve blouse**<br>`blue`, `pink` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/JY3zvHw.png"><br>**Rain boots**<br>`yellow` | ⭐ priority |
-| <img width="128" height="128" alt="" src="https://imgur.com/8PQkmP6.png"><br>**Rainbow sweater**<br>`white` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/tvEB6uC.png"><br>**Ribbon sandals**<br>`white`, `pink` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/2mc4sb0.png"><br>**Sailor tee**<br>`pink` | |
 | <img width="128" height="128" alt="" src="https://imgur.com/jYkhwbN.png"><br>**Shellfish pochette**<br>_craftable!_ | |
