@@ -12,7 +12,9 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | Item | Notes |	
 |:---:|:--- |	
 | ![](https://storage.googleapis.com/acdb/miscellaneous/FtrAlomapot_Remake_3_0.png) | **Aroma pot**<br><br><sup>🎨 _customizable_</sup> |
-| ![](https://imgur.com/1yLZR2e.png) | **Beekeeper’s hive**<br>`3 wasp nest`<br>`5 wood`<br><br><sup>🎨 _customizable_</sup> |	
+| ![](https://imgur.com/1yLZR2e.png) | **Beekeeper’s hive**<br>`3 wasp nest`<br>`5 wood`<br><br><sup>🎨 _customizable_</sup> |
+| ![](https://storage.googleapis.com/acdb/housewares/FtrCardboardSofaL_Remake_0_0.png) | **Cardboard sofa**<br>`
+| ![](https://storage.googleapis.com/acdb/housewares/FtrCardboardTableL_Remake_0_0.png) | **Cardboard table**<br>`
 | ![](https://storage.googleapis.com/acdb/rugs/RugOtherCherryM00.png) | **Cherry rug** |
 | ![](https://storage.googleapis.com/acdb/wallpapers/RoomTexWallFusumaGorgeous00.png) | **Gold-screen wall**<br>`2 gold nugget`<br>`1 screen wall` |
 | ![](https://imgur.com/RvAD4XF.png) | **Golden floor**<br>`4 gold nugget` |	
@@ -160,6 +162,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/oqC9r9v.png) | **Rattan wardrobe**<br>`brown`<br><br>6,900 Bells |
 | ![](https://imgur.com/XFNPDbq.png) | **Record box**<br>`red` |
 | ![](https://imgur.com/dztahb1.png) | **Red brick wall** |
+| ![](https://imgur.com/abnWUR5.png) | **Red round mat**<br>`small` |
 | ![](https://imgur.com/pvB6yM7.png) | **Retro stereo**<br>`brown`<br><br>6,000 Bells |
 | ![](https://imgur.com/gnQUYOP.png) | **Revolving spice rack**<br>`brown` |
 | ![](https://imgur.com/6AnovA7.png) | **Rock guitar**<br>`natural wood/black` |
@@ -203,6 +206,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://storage.googleapis.com/acdb/housewares/FtrCleanerStick_Remake_5_0.png) | **Upright vacuum**<br>`blue-green` |
 | ![](https://imgur.com/96EyV6k.png) | **Velvet stool** |
 | ![](https://imgur.com/naT99pw.png) | **Wall-mounted tool board**<br>`blue` |
+| ![](https://imgur.com/g70dUrG.png) | **Wall fan**<br>`black/gold` |
 | ![](https://imgur.com/zPoweGc.png) | **Weight bench** | 5,400 Bells |
 | ![](https://imgur.com/5KXt3dQ.png) | **White wooden deck rug** |
 | ![](https://imgur.com/6PITKOn.png) | **Wind turbine**<br>`blue`<br><br>Nook Miles |
@@ -213,6 +217,12 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 
 ## Want
 
+### Recipe cards
+| Item | Notes |
+|:---:|:---|
+| ![](https://storage.googleapis.com/acdb/miscellaneous/FtrCoconutjuice.png) | **Coconut juice**<br>DIY Recipe card |
+| ![](https://imgur.com/KicgJzV.png) | **Iron wall rack**<br>DIY Recipe card |
+
 | Item | Notes |
 |:---:|:--- |
 | ![](https://storage.googleapis.com/acdb/housewares/FtrBeachtowel_Remake_0_1.png) | **Beach towel**<br>`red stripes` |
@@ -221,6 +231,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/HZY3OQX.png) | **Cone**<br>`orange stripe` |
 | ![](https://imgur.com/MGBtaAS.png) | ⭐ **Cute chair** ⭐<br>`red`, `pink` |
 | ![](https://imgur.com/oGs60wR.png) | **Cute wall-mounted clock**<br>`pink`, `yellow`, `aqua` |
+| ![](https://storage.googleapis.com/acdb/miscellaneous/FtrCuttingboard_Remake_3_0.png) | **Cutting board** |
 | ![](https://imgur.com/UWJcsbC.png) | **Desktop computer**<br>`pink` |
 | ![](https://imgur.com/0DshfFu.png) | **DIY workbench** |
 | ![](https://imgur.com/OFdyuBY.png) | ⭐ **Diner counter chair** ⭐<br>`red` |
@@ -232,11 +243,10 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/rEUctjs.png) | ⭐ **Frozen treat set** ⭐<br>`any` |
 | ![](https://imgur.com/WyMhusd.png) | **Gas range**<br>`silver preferably` |
 | ![](https://imgur.com/yXK5o6l.png) | ⭐ **Hanging terrarium** ⭐ |
-| ![](https://imgur.com/KicgJzV.png) | **Iron wall rack** | DIY Recipe card |
 | ![](https://imgur.com/ELfz1i9.png) | **Laptop** ⭐<br>`pink`, `silver` |
 | ![](https://imgur.com/yJYbiUz.png) | **Mobile**<br>`sheep` |
 | ![](https://imgur.com/XBSy5Cv.png) | **Natural wooden deck rug** |
-| ![](https://imgur.com/y61TZBz.png) | ⭐ **Open-frame kitchen** ⭐ |
+| ![](https://imgur.com/y61TZBz.png) | **Open-frame kitchen** |
 | ![](https://imgur.com/C7Q4YY9.png) | **Peach stripes rug** |
 | ![](https://imgur.com/4qUugHD.png) | **Pet bed**<br>`white` |
 | ![](https://imgur.com/cuxflp8.png) | **Phone box**<br>`red`, `blue` |
@@ -249,8 +259,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/KnL22M5.png) | **Surfboard**<br>`red`, `blue stripes` |
 | ![](https://imgur.com/2Zb4EWZ.png) | **Synthesizer**<br>`any` |
 | ![](https://imgur.com/9BcHyCJ.png) | **Tool cart**<br>`red`, `yellow`, `blue` |
-| ![](https://imgur.com/rvNXFBU.png) | **Unglazed dish set**<br>`black`  | _craftable!_, will provide materials |
-| ![](https://imgur.com/g70dUrG.png) | **Wall fan**<br>`any` |
+| ![](https://imgur.com/rvNXFBU.png) | **Unglazed dish set**<br>`black`  | _craftable!_, will provide materials 
 | ![](https://imgur.com/bXwlr1U.png) | **Whiteboard**<br>`any` |
 | ![](https://imgur.com/cUldthB.png) | **White subway tile wall** |
 | ![](https://imgur.com/2PmUzCG.png) | **Writing poster**<br>`Periodic table` |
