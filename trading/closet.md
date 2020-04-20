@@ -9,13 +9,10 @@ Here’s my catalog of clothing and accessories!
 | <img width="128" height="128" alt="" src="https://imgur.com/xsZk7yx.png"> | **Bone costume** |
 | <img width="128" height="128" alt="" src="https://imgur.com/uqFX0FB.png"> | **Bunny hood**<br>`pink`, `"white" light blue` |
 | <img width="128" height="128" alt="" src="https://imgur.com/WNIwLKs.png"> | **Cherry hat**<br>_craftable!_ |
-| <img width="128" height="128" alt="" src="https://imgur.com/WGEyTFw.png"> | **Dolly shirt**<br>`blue` |
 | <img width="128" height="128" alt="" src="https://imgur.com/PvQ29wH.png"> | **Fishing vest**<br>`orange` |
 | <img width="128" height="128" alt="" src="https://imgur.com/3ORGsZi.png"> | **Fishing waders**<br>`orange` |
 | <img width="128" height="128" alt="" src="https://imgur.com/qpDH2XL.png"> | **Halo** |
-| <img width="128" height="128" alt="" src="https://imgur.com/4NuwM8U.png"> | **Kids’ smock**<br>`chick` |
 | <img width="128" height="128" alt="" src="https://imgur.com/md1uUjG.png"> | **Nose drip** |
-| <img width="128" height="128" alt="" src="https://imgur.com/AgBtzUt.png"> | **Pacifier**<br>`baby mint` |
 | <img width="128" height="128" alt="" src="https://imgur.com/xuLaFB2.png"> | **Rainbow umbrella** |
 | <img width="128" height="128" alt="" src="https://imgur.com/8PQkmP6.png"> | **Rainbow sweater**<br>`white` |
 | <img width="128" height="128" alt="" src="https://imgur.com/PcI1otX.png"> | **Skeleton hood** |
@@ -23,8 +20,6 @@ Here’s my catalog of clothing and accessories!
 | <img width="128" height="128" alt="" src="https://imgur.com/c0z7xvw.png"> | **Sticky rice** |
 | <img width="128" height="128" alt="" src="https://imgur.com/WUb0cMr.png"> | **Strawberry dress** |
 | <img width="128" height="128" alt="" src="https://imgur.com/epFegW3.png"> | **Strawberry hat** |
-| <img width="128" height="128" alt="" src="https://imgur.com/GfEtomy.png"> | **Visual punk dress** |
-| <img width="128" height="128" alt="" src="https://imgur.com/vL8NVCF.png"> | **Work boots**<br>`white` |
 | <img width="128" height="128" alt="" src="https://imgur.com/OT3nFda.png"> | **Zori**<br>`aqua` |
 
 ---
