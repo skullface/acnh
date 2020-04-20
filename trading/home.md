@@ -13,9 +13,9 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 |:---:|:--- |	
 | ![](https://storage.googleapis.com/acdb/miscellaneous/FtrAlomapot_Remake_3_0.png) | **Aroma pot**<br><br><sup>🎨 _customizable_</sup> |
 | ![](https://imgur.com/1yLZR2e.png) | **Beekeeper’s hive**<br>`3 wasp nest`<br>`5 wood`<br><br><sup>🎨 _customizable_</sup> |
-| ![](https://storage.googleapis.com/acdb/housewares/FtrCardboardSofaL_Remake_0_0.png) | **Cardboard sofa**<br>`
-| ![](https://storage.googleapis.com/acdb/housewares/FtrCardboardTableL_Remake_0_0.png) | **Cardboard table**<br>`
-| ![](https://storage.googleapis.com/acdb/rugs/RugOtherCherryM00.png) | **Cherry rug** |
+| ![](https://storage.googleapis.com/acdb/housewares/FtrCardboardSofaL_Remake_0_0.png) | **Cardboard sofa**<br>`2 cardboard box`
+| ![](https://storage.googleapis.com/acdb/housewares/FtrCardboardTableL_Remake_0_0.png) | **Cardboard table**<br>`4 cardboard box`
+| ![](https://storage.googleapis.com/acdb/rugs/RugOtherCherryM00.png) | **Cherry rug**<br>`6 cherry`
 | ![](https://storage.googleapis.com/acdb/wallpapers/RoomTexWallFusumaGorgeous00.png) | **Gold-screen wall**<br>`2 gold nugget`<br>`1 screen wall` |
 | ![](https://imgur.com/RvAD4XF.png) | **Golden floor**<br>`4 gold nugget` |	
 | ![](https://storage.googleapis.com/acdb/housewares/FtrIronwoodKitchen_Remake_0_0.png) | **Ironwood kitchenette**<br>`4 wood`<br>`3 iron nugget`<br>`1 ironwood dresser`<br>`1 cutting board`<br><br><sup>🎨 _customizable_</sup> |
