@@ -217,23 +217,25 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 
 ## Want
 
-### Recipe cards
+### 🛠️ Recipe cards
 | Item | Notes |
 |:---:|:---|
 | ![](https://storage.googleapis.com/acdb/miscellaneous/FtrCoconutjuice.png) | **Coconut juice**<br>DIY Recipe card |
 | ![](https://imgur.com/KicgJzV.png) | **Iron wall rack**<br>DIY Recipe card |
 
+
+### 📖 Catalog/Craftable
+
 | Item | Notes |
 |:---:|:--- |
 | ![](https://storage.googleapis.com/acdb/housewares/FtrBeachtowel_Remake_0_1.png) | **Beach towel**<br>`red stripes` |
 | ![](https://imgur.com/jj8ttnR.png) | **Beach umbrella** |  |
-| ![](https://imgur.com/cX9tJyk.png) | **Blue design kitchen mat** |
 | ![](https://imgur.com/HZY3OQX.png) | **Cone**<br>`orange stripe` |
 | ![](https://imgur.com/MGBtaAS.png) | ⭐ **Cute chair** ⭐<br>`red`, `pink` |
 | ![](https://imgur.com/oGs60wR.png) | **Cute wall-mounted clock**<br>`pink`, `yellow`, `aqua` |
-| ![](https://storage.googleapis.com/acdb/miscellaneous/FtrCuttingboard_Remake_3_0.png) | **Cutting board** |
+| ![](https://storage.googleapis.com/acdb/miscellaneous/FtrCuttingboard_Remake_3_0.png) | **Cutting board**<br>_craftable!_, will provide materials |
 | ![](https://imgur.com/UWJcsbC.png) | **Desktop computer**<br>`pink` |
-| ![](https://imgur.com/0DshfFu.png) | **DIY workbench** |
+| ![](https://imgur.com/0DshfFu.png) | **DIY workbench**<br>_craftable!_, will provide materials |
 | ![](https://imgur.com/OFdyuBY.png) | ⭐ **Diner counter chair** ⭐<br>`red` |
 | ![](https://imgur.com/ueFkKTA.png) | **Double-sided wall clock**<br>`black`, `white`, `silver` |
 | ![](https://imgur.com/W68U1r7.png) | **Effects rack**<br>`any` |
@@ -259,7 +261,7 @@ I’m happy to trade for/freely send anything under 5,000 Bells~ For Nook Miles 
 | ![](https://imgur.com/KnL22M5.png) | **Surfboard**<br>`red`, `blue stripes` |
 | ![](https://imgur.com/2Zb4EWZ.png) | **Synthesizer**<br>`any` |
 | ![](https://imgur.com/9BcHyCJ.png) | **Tool cart**<br>`red`, `yellow`, `blue` |
-| ![](https://imgur.com/rvNXFBU.png) | **Unglazed dish set**<br>`black`  | _craftable!_, will provide materials 
+| ![](https://imgur.com/rvNXFBU.png) | **Unglazed dish set**<br>`black`<br>_craftable!_, will provide materials |
 | ![](https://imgur.com/bXwlr1U.png) | **Whiteboard**<br>`any` |
 | ![](https://imgur.com/cUldthB.png) | **White subway tile wall** |
 | ![](https://imgur.com/2PmUzCG.png) | **Writing poster**<br>`Periodic table` |
