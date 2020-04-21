@@ -4,10 +4,10 @@
     Skullie from Briar Rose Island
   </h2>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/221550/79898530-655da800-83d9-11ea-95cc-c472eba039e0.png" height="32" width="32"> This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a> 🏝✨
+    <img src="https://user-images.githubusercontent.com/221550/79899054-33991100-83da-11ea-8427-4eb1e5b8df46.png" height="30" width="30" valign="bottom"> This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a> 🏝✨
   </p>
   <p align="center">
-    Check out my <a href="https://nook.exchange/u/skull">catalog/wishlist</a> so we can make a trade!<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes 😄
+    Check out my <img src="https://user-images.githubusercontent.com/221550/79899055-3431a780-83da-11ea-9bdd-3630d7f8e7bc.png" height="24" width="24" valign="bottom"> <a href="https://nook.exchange/u/skull">catalog/wishlist</a> so we can make a trade!<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes <img src="https://user-images.githubusercontent.com/221550/79899331-a7d3b480-83da-11ea-9bb1-d74d4032bf82.png" height="30" width="30" valign="bottom"> 
   </p>
 </p>
 
@@ -70,9 +70,13 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
 * [ ] Harvest resources
   * [ ] Rocks (materials — including up to 💰16,000 Bells from one rock)
   * [ ] Trees
-    * [ ] Wood
-    * [ ] Fruits (grow every three days after they were last picked)
-    * [ ] Furniture, ~💰1,000 Bells, and/or wasps from cedar/hardwood trees
+    * [ ] Fruit trees
+      * [ ] Fruits (grow every three days after they were last picked)
+      * [ ] Wood (hardwood, wood, softwood)
+    * [ ] Hardwood/Cedar trees (must have at least 15 planted)
+      * [ ] 2 furniture/miscellaneous items
+      * [ ] ~💰1,000 Bells (dropped as 100 Bell coins)
+      * [ ] 5 wasps/wasp nests
     
 ## Shell sale prices
 | Shell | Value |
