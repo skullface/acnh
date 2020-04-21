@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/221550/78463601-b452d000-76ac-11ea-85b6-fa5f50e33d2d.png" width="60" height="60">
   <h2 align="center">
-    Animal Crossing: New Horizons
+    ✨ Skullie from 🏝 Briar Rose
   </h2>
   <p align="center">
-    Hi, I’m <strong>Skullie</strong> from <strong>Briar Rose</strong> Island~ 🏝✨ This repo is my ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a>.
+    Hi! This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a>.
   </p>
   <p align="center">
     Check out my <a href="https://nook.exchange/u/skull">catalog/wishlist</a> so we can make a trade!<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes 😄
