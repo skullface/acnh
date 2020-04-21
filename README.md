@@ -4,13 +4,10 @@
     Animal Crossing: New Horizons
   </h2>
   <p align="center">
-    I’m <strong>Skullie</strong> from 🏝<strong>Briar Rose</strong> Island! This repo exists to help me <a href="https://github.com/skullface/acnh/projects/1">track my progress</a>
-    and keep tabs on information I don’t want to lose.</sup>
+    Hi, I’m <strong>Skullie</strong> from <strong>Briar Rose</strong> Island~ 🏝✨ This repo is my ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a>.
   </p>
   <p align="center">
-    Check out my <a href="https://nook.exchange/u/skull">catalog, craftable recipes, and wishlist</a>
-    so we can make a trade! 
- <a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes~
+    Check out my <a href="https://nook.exchange/u/skull">catalog/wishlist</a> so we can make a trade!<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes 😄
   </p>
 </p>
 
