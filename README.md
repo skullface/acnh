@@ -4,26 +4,38 @@
     Animal Crossing: New Horizons
   </h2>
   <p align="center">
-     <sup>This repo exists to help me <a href="https://github.com/skullface/acnh/projects/1">track my progress ✅</a>
-       and keep tabs on information 👇 I don’t want to lose.</sup>
+    I’m <strong>Skullie</strong> from 🏝<strong>Briar Rose</strong> Island! This repo exists to help me <a href="https://github.com/skullface/acnh/projects/1">track my progress</a>
+    and keep tabs on information I don’t want to lose.</sup>
   </p>
   <p align="center">
-    Let’s be friends! I’m <strong>Skullie</strong> from 🏝<strong>Briar Rose</strong> Island. Check out my <strong>
-    <a href="https://nook.exchange/u/skull">catalog, craftable recipes, and wishlist</a></strong> so we can make a trade! <a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes~
+    Check out my <a href="https://nook.exchange/u/skull">catalog, craftable recipes, and wishlist</a>
+    so we can make a trade! 
+ <a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes~
   </p>
 </p>
 
 ---
 
 ## Resources and guides
+
+#### Gameplay
 * [**Critterpedia**](https://critterpedia.moppler.co.uk): What fish + insects are available to catch _right now_, with location and sale price.
+* [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
+
+#### Designs
 * [**Pattern Editor**](https://acpatterns.com/editor): Practice your pattern designs or upload an image and get its QR code for the Able Sisters.
 * [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community design for the Able Sisters.
-* [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items (warning: spoilers). 
-* [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
-* [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room): How to decorate your house to maximize your luck in game.
+
+#### Trading
+* [**Nook Exchange**](https://nook.exchange/): Visual index of all game items (spoiler warning!) with the ability to create an account to share your catalog/wishlist.
+* [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items (spoiler warning!). 
+* [**Nookazon**](http://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
+
+#### Layout
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout in the browser.
-* [**Nookazon**](http://nookazon.com): eBay-esque marketplace (pay in Bells, not cash!)
+* [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room): How to decorate your house to maximize your luck in game.
+
+#### Information
 * [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough.
 
 ## Timing
@@ -56,7 +68,8 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
 * [ ] Complete the first 5 Nook Miles+ missions of the day for 2x bonus
 * [ ] Find your island’s 4 fossils
 * [ ] Find your island’s DIY Recipe message in a bottle
-* [ ] Find your island’s glowing money spot for 💰1,000 Bells. (Optional: Re-plant money in the spot to grow a “money tree" to multiply your investment!)
+* [ ] Find your island’s glowing money spot for 💰1,000 Bells.
+  * [ ] Re-plant 💰10,000 Bells in the same spot to grow a money tree that "ripens" the investment once after ~5 days.
 * [ ] Harvest resources
   * [ ] Rocks (materials — including up to 💰16,000 Bells from one rock)
   * [ ] Trees
