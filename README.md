@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/221550/78463601-b452d000-76ac-11ea-85b6-fa5f50e33d2d.png" width="60" height="60">
+  <img src="https://user-images.githubusercontent.com/221550/79898529-64c51180-83d9-11ea-8c7c-cb266ddd0999.png" width="60" height="60">
   <h2 align="center">
-    ✨ Skullie from 🏝 Briar Rose
+    Skullie from Briar Rose Island
   </h2>
   <p align="center">
-    Hi! This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a>.
+    <img src="https://user-images.githubusercontent.com/221550/79898530-655da800-83d9-11ea-95cc-c472eba039e0.png" height="32" width="32"> This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a> 🏝✨
   </p>
   <p align="center">
     Check out my <a href="https://nook.exchange/u/skull">catalog/wishlist</a> so we can make a trade!<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes 😄
