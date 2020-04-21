@@ -4,9 +4,7 @@
     Skullie from Briar Rose Island
   </h2>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/221550/79899054-33991100-83da-11ea-8427-4eb1e5b8df46.png" height="30" width="30" valign="bottom"> This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a> 🏝✨
-  </p>
-  <p align="center">
+    <img src="https://user-images.githubusercontent.com/221550/79899054-33991100-83da-11ea-8427-4eb1e5b8df46.png" height="30" width="30" valign="bottom"> This repo is my personal ACNH reference and <a href="https://github.com/skullface/acnh/projects/1">progress tracker</a> 🏝✨<br>
     Check out my <img src="https://user-images.githubusercontent.com/221550/79899055-3431a780-83da-11ea-9bdd-3630d7f8e7bc.png" height="24" width="24" valign="bottom"> <a href="https://nook.exchange/u/skull">catalog/wishlist</a> so we can make a trade!<br><a href="https://twitter.com/intent/tweet?text=%40skullface%20hey%2C%20I%20wanna%20be%20ACNH%20friends!">Send me an @ on Twitter</a> to share Switch FCs or Dodo codes <img src="https://user-images.githubusercontent.com/221550/79899331-a7d3b480-83da-11ea-9bb1-d74d4032bf82.png" height="30" width="30" valign="bottom"> 
   </p>
 </p>
@@ -65,18 +63,18 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
 * [ ] Complete the first 5 Nook Miles+ missions of the day for 2x bonus
 * [ ] Find your island’s 4 fossils
 * [ ] Find your island’s DIY Recipe message in a bottle
-* [ ] Find your island’s glowing money spot for 💰1,000 Bells.
-  * [ ] Re-plant 💰10,000 Bells in the same spot to grow a money tree that "ripens" the investment once after ~5 days.
+* [ ] Find your island’s glowing money spot for 💰1,000 Bells
+  * [ ] Re-plant 💰10,000 Bells in the same spot to grow a tree that will triple your investment
 * [ ] Harvest resources
-  * [ ] Rocks (materials — including up to 💰16,000 Bells from one rock)
-  * [ ] Trees
-    * [ ] Fruit trees
-      * [ ] Fruits (grow every three days after they were last picked)
-      * [ ] Wood (hardwood, wood, softwood)
-    * [ ] Hardwood/Cedar trees (must have at least 15 planted)
-      * [ ] 2 furniture/miscellaneous items
-      * [ ] ~💰1,000 Bells (dropped as 100 Bell coins)
-      * [ ] 5 wasps/wasp nests
+  * [ ] Hit rocks for materials (clay, nuggets, stone, and up to ~💰16,000 Bells)
+  * [ ] Fruit trees
+    * [ ] Shake for fruits (grow every three days after they were last picked)
+    * [ ] Chop wood
+  * [ ] Hardwood/Cedar trees (must have at least 15 planted)
+    * [ ] Shake for 2 furniture/miscellaneous items
+    * [ ] Shake for ~💰1,000 Bells (dropped as 100 Bell coins)
+    * [ ] Catch 5 wasps/wasp nests
+    * [ ] Chop wood
     
 ## Shell sale prices
 | Shell | Value |
@@ -87,29 +85,18 @@ Every day starting at 🕔 **`5:00 am`**, you can accomplish these tasks all ove
 | Giant Clam	| 💰 450 Bells |
 | Oyster shell	| 💰 450 Bells |
 | White scallop	| 💰 450 Bells |
-| Coral	| 💰 250 Bells |
 
 <details>
   <summary>
-    <strong>Shells worth 200 Bells and under</strong>
+    <strong>Shells worth 250 Bells and under</strong>
   </summary>
   
   | Shell | Value |
   | --- | --- |
+  | Coral	| 💰 250 Bells |
   | Sea Snail	| 💰 180 Bells |
   | Venus comb	| 💰 150 Bells |
   | Sand dollar	| 💰 120 Bells |
-</details>
-
-
-<details>
-  <summary>
-    <strong>Shells worth 100 Bells and under</strong>
-  </summary>
-  
-  | Shell | Value |
-  | --- | --- |
-  | Manila Clam	| 💰 100 Bells |
   | Cowries	| 💰 60 Bells |
   | Porceletta	| 💰 30 Bells |
 </details>
