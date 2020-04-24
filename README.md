@@ -26,12 +26,16 @@
 * [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items (spoiler warning!). 
 * [**Nookazon**](http://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
 
+#### Turnips and the Stalk Market
+* [**Stalks.io**](https://stalks.io): Stalk Market predictor to track your profits and price history.
+
 #### Layout
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout in the browser.
 * [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room): How to decorate your house to maximize your luck in game.
 
 #### Information
 * [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough.
+* [**Subreddits**](https://www.reddit.com/user/andymangold/m/animalcrossing/): Curated feed of ACNH subreddits.
 
 ## Timing
 Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
