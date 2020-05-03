@@ -15,23 +15,31 @@
 
 #### Gameplay
 * [**Critterpedia**](https://critterpedia.moppler.co.uk): What fish + insects are available to catch _right now_, with location and sale price.
-* [**Myster Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
+* [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
 
 #### Designs
 * [**Pattern Editor**](https://acpatterns.com/editor): Practice your pattern designs or upload an image and get its QR code for the Able Sisters.
+* [**/r/acqr**](http://reddit.com/r/acqr): Subredditing hosting user-submitted designs.
+* [**AC Custom Island Design**](https://discord.gg/uQFnKRH): Read-only Discord server listing meticulously categorized catalog of user-submitted designs from across the Internet.
 * [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community design for the Able Sisters.
 
 #### Trading
 * [**Nook Exchange**](https://nook.exchange/): Visual index of all game items (spoiler warning!) with the ability to create an account to share your catalog/wishlist.
+* [**VillagerDB**](https://villagerdb.com/): Visual index of all game items (spoiler warning!) with the ability to create an account to share your catalog/wishlist, and create additional lists.
 * [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items (spoiler warning!). 
 * [**Nookazon**](http://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
+* [**DodoCodes**](https://dodocodes.com/): Tour other player’s islands for specific items, recipes, villagers, or just for inspiration.
+* [**/r/ACTrade**](https://www.reddit.com/r/ACTrade/): Subreddit for facilitating trades of items, recipes, and villagers.
+* [**/r/ACVillager**](https://www.reddit.com/r/ACVillager/): Subreddit for facilitating trades of villagers.
 
 #### Turnips and the Stalk Market
-* [**Stalks.io**](https://stalks.io): Stalk Market predictor to track your profits and price history.
+* [**Turnip Prophet**](http://turnipprophet.io): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [Support this project on GitHub :octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)!
+* [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
+* [**Turnip Exchange**](https://turnip.exchange/): Queuing app to host visitors for turnip sales and any other tour.
 
 #### Layout
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout in the browser.
-* [**Furniture Feng Shui guide**](https://www.metabomb.net/animal-crossing/gameplay-guides/animal-crossing-new-horizons-feng-shui-how-to-decorate-your-room): How to decorate your house to maximize your luck in game.
+* [**Furniture luck + Feng Shui guide**](https://www.youtube.com/watch?v=BYegwU4uucA): How to decorate your house to maximize your luck in game.
 
 #### Information
 * [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough.
