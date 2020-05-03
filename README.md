@@ -13,37 +13,41 @@
 
 ## Resources and guides
 
+#### General information
+* [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough. `⭐️ strongly recommended` 
+
 #### Gameplay
-* [**Critterpedia**](https://critterpedia.moppler.co.uk): What fish + insects are available to catch _right now_, with location and sale price.
-* [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Mystery Tour island possibilities.
+* [**Travel Guide**](https://jeffreykuiken.nl/acnhtg/): iOS app to serve as your pocket companion while playing; listing bugs and fish available to catch _right now_, with location, size and sale prices; inventory of villagers and all items including fossils, art, K.K. Slider songs, and flowers. `⭐️ strongly recommended` 
+* [**Critterpedia**](https://critterpedia.moppler.co.uk): Mobile-first web app listing bugs and fish available to catch _right now_, with location and sale price.
+* [**Mystery Tour Islands guide**](https://wuffs.org/acnh/mysterytour.html): All of the possible Nook Miles island layouts and the probability of landing on them.
 
 #### Designs
-* [**Pattern Editor**](https://acpatterns.com/editor): Practice your pattern designs or upload an image and get its QR code for the Able Sisters.
-* [**/r/acqr**](http://reddit.com/r/acqr): Subredditing hosting user-submitted designs.
+* [**Pattern Editor**](https://acpatterns.com/editor): Use the browser to design in a  facsimile of the in-game pattern editor (or upload and convert an image!) and get its NookLink QR code.
 * [**AC Custom Island Design**](https://discord.gg/uQFnKRH): Read-only Discord server listing meticulously categorized catalog of user-submitted designs from across the Internet.
-* [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community design for the Able Sisters.
+* [**r/acqr**](http://reddit.com/r/acqr): Community designs for the Able Sisters’ kiosk.
+* [**@acnh_patterns**](https://www.instagram.com/acnh_patterns): Curated Instagram account of community designs for the Able Sisters’ kiosk.
 
-#### Trading
-* [**Nook Exchange**](https://nook.exchange/): Visual index of all game items (spoiler warning!) with the ability to create an account to share your catalog/wishlist.
-* [**VillagerDB**](https://villagerdb.com/): Visual index of all game items (spoiler warning!) with the ability to create an account to share your catalog/wishlist, and create additional lists.
-* [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items (spoiler warning!). 
+#### Trading/Catalog
+<sup>⚠️ <em>Potential spoiler content in the links below!</em></sup>
+
+* [**Nook Exchange**](https://nook.exchange/): Visual index of all game items with the ability to create an account to share your catalog/wishlist.
+* [**VillagerDB**](https://villagerdb.com/): Visual index of all game items with the ability to create an account to share your catalog/wishlist, and create additional lists. [This project is on GitHub :octocat:](https://github.com/jefflomacy/villagerdb)!
+* [**Nook Plaza**](https://nookplaza.net/): Visual index of all game items. 
 * [**Nookazon**](http://nookazon.com): eBay-esque marketplace where users pay in Bells, not cash.
 * [**DodoCodes**](https://dodocodes.com/): Tour other player’s islands for specific items, recipes, villagers, or just for inspiration.
-* [**/r/ACTrade**](https://www.reddit.com/r/ACTrade/): Subreddit for facilitating trades of items, recipes, and villagers.
-* [**/r/ACVillager**](https://www.reddit.com/r/ACVillager/): Subreddit for facilitating trades of villagers.
+* [**r/ACTrade**](https://www.reddit.com/r/ACTrade/): Community facilitation of items, recipe, and villager trades.
+* [**r/ACVillager**](https://www.reddit.com/r/ACVillager/): Community facilitation of villager trades or giveaways.
 
 #### Turnips and the Stalk Market
-* [**Turnip Prophet**](http://turnipprophet.io): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [Support this project on GitHub :octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)!
+* [**Turnip Prophet**](http://turnipprophet.io): Sophisticated Stalk Market predictor to track your price history with a probability percentage. [<kbd>Sponsor</kbd> this project on GitHub :octocat:](https://github.com/mikebryant/ac-nh-turnip-prices#sponsor-button-repo)! `⭐️ strongly recommended` 
 * [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
 * [**Turnip Exchange**](https://turnip.exchange/): Queuing app to host visitors for turnip sales and any other tour.
 
 #### Layout
-* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout in the browser.
+* [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout via mini-map in the browser.
+* [**Island Planner**](https://bobacupcake.itch.io/island-planner): Plot out your island’s building layouts and terraforming designs in a 3D editor in the browser or downloadable desktop app.
 * [**Furniture luck + Feng Shui guide**](https://www.youtube.com/watch?v=BYegwU4uucA): How to decorate your house to maximize your luck in game.
-
-#### Information
-* [**Polygon guides**](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/3/20/21170563/tips-tricks-walkthrough-bells-nook-miles-tickets-mileage-rewards-turnips): Excellent guides for most everything you need to know, including a First and Second Week walkthrough.
-* [**Subreddits**](https://www.reddit.com/user/andymangold/m/animalcrossing/): Curated feed of ACNH subreddits.
+* [**r/AnimalCrossingTours**](https://www.reddit.com/r/AnimalCrossingTours/): Community inspiration hub for island and room layouts.
 
 ## Timing
 Time is determined by your Nintendo Switch’s local time. Though midnight local time changes the date, a new “day” in ACNH officially starts at 🕔 **`5:00 am`**, when daily announcements are made on your island, dailies “refill”, visitors arrive/leave, and projects make progress.
