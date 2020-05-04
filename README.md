@@ -151,6 +151,22 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 | Flimsy Watering Can | ~20 uses 🌷 | Water flowers |  |
 </details>
 
+## Controls
+* Hold <kbd>A</kbd> on an item to grab it and reorganize things in your pocket
+* Hold <kbd>B</kbd> to run
+* Press <kbd>A</kbd> while crafting/customizing to speed up the animation
+* Press <kbd>B</kbd> while talking to characters to speed up their text
+* Use the left <kbd>←</kbd> and right <kbd>→</kbd> directional-pad arrows to cycle through your Favorite tools
+* Press the down <kbd>↓</kbd> directional-pad arrow to put away/take out your last-used tool
+
+## Tips
+* The following can be customized without needing to keep the design in a custom design slot:
+  * Island flag
+  * Phone case
+  * Face paint
+* If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
+* When visiting another island, ask before you buy one of the 2-3 furniture items in Nook’s Cranny or art from Jolly Redd. These items can only be purchased once, so it’s polite to ask if it’s okay for you to buy it. You can always offer to let the island owner pick up the item after you buy it so it can go in their catalog, too.
+
 ---
 
 💖 Feel free to fork this to use for your own tracking, or submit a PR to add content to this README! <img src="https://user-images.githubusercontent.com/221550/79901007-23366580-83dd-11ea-9431-41b8d82c7aba.png" height="24" width="24" valign="bottom">
