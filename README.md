@@ -160,8 +160,8 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 * Press the down <kbd>↓</kbd> directional-pad arrow to put away/take out your last-used tool
 
 ## Tips
-* The following items retain their original customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
-* If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!\
+* The following items retain their most recent customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
+* If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
 
 ### Visiting other islands
 * Don’t run through flowers. It takes time for the blooms to grow back. Be sure to walk wherever you see flowers.
@@ -170,6 +170,7 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 * Don’t shake trees, chop wood, grab shells, pick flowers, etc. without asking first. Most friends will be totally okay with you taking replenishable resources, but it’s always polite to ask.
 * If you’re visiting a stranger for a trade, it’s polite not to talk to their residents. Villagers will remember you and ask about you, and it can be awkward and unwanted for a neighbor to ask about a stranger that came by for a deal!
 * Unlike Sahara, Leif, Kicks, etc., you can only buy one piece of art from any Jolly Redd per day and obtain one recipe from any Celeste per night.
+* If you’re visiting an island for a particular recipe a villager is crafting at their DIY bench, check the map on your NookPhone to see where their house is!
 * Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 
 ---
