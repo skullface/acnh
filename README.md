@@ -161,7 +161,7 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 
 ## Tips
 * The following items retain their original customization even after the art in the custom design slot is deleted or changed: island flag, phone case, face paint.
-* If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!
+* If you need to craft something on your island but you’re far from one of your own benches, try popping into one of your villager’s houses to see if their DIY Craft bench is out, or use the one by Tom Nook inside Resident Services!\
 
 ### Visiting other islands
 * Don’t run through flowers. It takes time for the blooms to grow back. Be sure to walk wherever you see flowers.
@@ -169,7 +169,7 @@ Tools only wear down when your action is successful. Ladders, Vaulting Poles, an
 * Ask before you buy one of the 2-3 furniture items at the back wall of Nook’s Cranny or art from Jolly Redd. These items can only be purchased once, so it’s polite to ask if it’s okay for you to buy it. (The small items on the table at Nook’s and furniture from Jolly Redd have no purchase limit. And you can always offer to let the island owner catalog the Nook’s item!)
 * Don’t shake trees, chop wood, grab shells, pick flowers, etc. without asking first. Most friends will be totally okay with you taking replenishable resources, but it’s always polite to ask.
 * If you’re visiting a stranger for a trade, it’s polite not to talk to their residents. Villagers will remember you and ask about you, and it can be awkward and unwanted for a neighbor to ask about a stranger that came by for a deal!
-* Unlike Sahara, Leif, Kicks, etc., you can only buy one piece of art from one Jolly Redd per day and obtain one recipe from Celeste per night.
+* Unlike Sahara, Leif, Kicks, etc., you can only buy one piece of art from any Jolly Redd per day and obtain one recipe from any Celeste per night.
 * Download the [Nintendo Switch Online app](https://www.nintendo.com/switch/online-service/app/) for your phone to use the NookLink feature to type messages in-game using your phone’s keyboard instead of the game controller.
 
 ---
