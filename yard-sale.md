@@ -17,8 +17,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Outdoor bench | white | | |
 | Den desk | dark wood | 1,000 Bells | |
 | Clothes closet | blue starry pattern | | |
-| Hammock | yellow | | |
-| Hammock | blue | | |
 | Inflatable sofa | blue | | 2 |
 | Futon | red | | 2 |
 | Old sewing machine | black | | 2 |
@@ -32,7 +30,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Long bathtub | white marble | 1,000 Bells | | 
 | Shower booth | black | 10,000 Bells | | 
 | Cypress plant | blue | | | 
-| Garbage can | | | | 
 | Anatomical model | | | | 
 | Popcorn machine | red | | 3 | 
 | Menu chalkboard | white | | 
@@ -43,7 +40,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Mama bear | cream | | | 
 | Oil barrel | light blue | | 
 | Blue corner | | | | 
-| Red corner | | | | 
 | Electric kick scooter | red | | | 
 | Electric kick scooter | white | | | 
 | Pull-up-bar stand | red | | | 
@@ -63,7 +59,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Antique vanity | black | 10,000 Bells | | 
 | Imperial chest | brown | 1,000 Bells | 2 |
 | Rattan bed | light brown | 1,000 Bells | |
-| Rattan wardrobe | white | 1,000 Bells | |
 | Rattan low table | black | 1,000 Bells | |
 | Rattan waste bin | white | | | |
 | Cute bed | white/pink | 3,000 Bells |  |
@@ -76,7 +71,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Item | Variant | 
 | --- | --- | 
 | Mobile | hot air balloons |
-| Tapestry | geometric | 
 
 ## Miscellaneous
 | Item | Variant | Price | Qty |
@@ -86,7 +80,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Ball | soccer | | |
 | Tissue box | natural wood | | |
 | Metal can | | | 2 |
-| Netwonâ€™s cradle | | | |
 | Board game, simple path game | | | 2 |
 | Toy box | gray | | |
 | Kettlebell | | 100 bells | |
@@ -100,7 +93,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Glass holder with candle | purple | |
 | Traditional tea set | normal | |
 | Table setting | black | | |
-| Stand mixer | yellow | | |
 | Simple kettle | green  | | |
 | Simple kettle | navy blue | | |
 | Microwave | white | | |
