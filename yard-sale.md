@@ -64,13 +64,13 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Antique bed | dark brown | 10,000 Bells | 2 | 
 | Antique clock | dark brown | 20,000 Bells | |
 | Antique clock | black | 20,000 Bells | |
-| Antique vanity | black | 10,000 Bells | 1 | 
+| Antique vanity | black | 10,000 Bells | | 
 | Imperial chest | brown | 1,000 Bells | 2 |
 | Rattan bed | light brown | 1,000 Bells | |
 | Rattan wardrobe | white | 1,000 Bells | |
 | Rattan low table | black | 1,000 Bells | |
 | Rattan waste bin | white | | | |
-| Cute bed | white/pink | 3,000 Bells | 2 |
+| Cute bed | white/pink | 3,000 Bells |  |
 | Cute wardrobe | sky blue | 1,000 Bells | |
 | Cute floor lamp | sky blue | | |
 | Cute floor lamp | yellow | | |
@@ -84,7 +84,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 ## Wall-mounted 
 | Item | Variant | 
 | --- | --- | 
-| Macrame tapestry | pink |
 | Mobile | hot air balloons |
 | Tapestry | geometric | 
 
