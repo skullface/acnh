@@ -26,7 +26,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Studio spotlight | white | | 2 |
 | Mini fridge | black | | |
 | Mini fridge | white | | |
-| Refrigerator | black | 1,000 Bells | |
 | Upright vacuum | green | | | 
 | Long bathtub | green | 1,000 Bells | | 
 | Long bathtub | two-towned tile (blue/white) | 1,000 Bells | | 
