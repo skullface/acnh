@@ -21,7 +21,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Hammock | blue | | |
 | Inflatable sofa | blue | | 2 |
 | Futon | red | | 2 |
-| Safe | white | | |
 | Old sewing machine | black | | 2 |
 | Folding floor lamp | gray | | |
 | Studio spotlight | white | | 2 |
@@ -34,11 +33,9 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Long bathtub | white marble | 1,000 Bells | | 
 | Shower booth | black | 10,000 Bells | | 
 | Cypress plant | blue | | | 
-| Green-leaf pile | | | | 
 | Garbage can | | | | 
 | Anatomical model | | | | 
 | Popcorn machine | red | | 3 | 
-| Sand castle | white | | | 
 | Menu chalkboard | white | | 
 | Telescope | | 1,000 Bells | 2 | 
 | Cone | red stripes | | |  
@@ -75,11 +72,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Cute floor lamp | sky blue | | |
 | Cute floor lamp | yellow | | |
 | Cute wardrobe | red | 1,000 Bells | |
-
-## Celeste items
-| Item | Price |
-| --- | --- |
-| Space shuttle | trade with another Celeste item pls! |
 
 ## Wall-mounted 
 | Item | Variant | 
