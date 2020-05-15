@@ -22,8 +22,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Old sewing machine | black | | 2 |
 | Folding floor lamp | gray | | |
 | Studio spotlight | white | | 2 |
-| Mini fridge | black | | |
-| Mini fridge | white | | |
 | Upright vacuum | green | | | 
 | Long bathtub | green | 1,000 Bells | | 
 | Long bathtub | two-towned tile (blue/white) | 1,000 Bells | | 
@@ -50,10 +48,10 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 ## Furniture set pieces
 | Item | Variant | Price | Qty |
 | --- | --- | --- | --- |
-| Antique bed | dark brown | 10,000 Bells |  | 
+| Antique bed | dark brown | 10,000 Bells | | 
 | Antique clock | black | 20,000 Bells | |
 | Antique vanity | black | 10,000 Bells | | 
-| Imperial chest | brown | 1,000 Bells | 1 |
+| Imperial chest | brown | 1,000 Bells | |
 | Rattan bed | light brown | 1,000 Bells | |
 | Rattan low table | black | 1,000 Bells | |
 | Cute wardrobe | sky blue | 1,000 Bells | |
