@@ -19,7 +19,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Clothes closet | blue starry pattern | | |
 | Hammock | yellow | | |
 | Hammock | blue | | |
-| Hammock | black | | |
 | Inflatable sofa | blue | | 2 |
 | Futon | red | | 2 |
 | Safe | white | | |
@@ -137,7 +136,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Simple mat, medium, white | |
 | Simple mat, small, orange | |
 | Simple bath mat, navy | |
-| Simple bath mat, green | |
 | Simple bath mat, pink | |
 | Red argyle rug | |
 
