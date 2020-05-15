@@ -39,7 +39,7 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Garbage can | | | | 
 | Anatomical model | | | | 
 | Popcorn machine | red | | 3 | 
-| Sand castle | white | | 2 | 
+| Sand castle | white | | | 
 | Menu chalkboard | white | | 
 | Telescope | | 1,000 Bells | 2 | 
 | Cone | red stripes | | |  
@@ -65,7 +65,7 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Antique bed | dark brown | 10,000 Bells | 2 | 
 | Antique clock | dark brown | 20,000 Bells | |
 | Antique clock | black | 20,000 Bells | |
-| Antique vanity | black | 10,000 Bells | 2 | 
+| Antique vanity | black | 10,000 Bells | 1 | 
 | Imperial chest | brown | 1,000 Bells | 2 |
 | Rattan bed | light brown | 1,000 Bells | |
 | Rattan wardrobe | white | 1,000 Bells | |
@@ -76,7 +76,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Cute floor lamp | sky blue | | |
 | Cute floor lamp | yellow | | |
 | Cute wardrobe | red | 1,000 Bells | |
-| Ironwood kitchenette | | 10,000 Bells | 
 
 ## Celeste items
 | Item | Price |
@@ -104,7 +103,7 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Kettlebell | | 100 bells | |
 | Fortune-telling set | purple | |
 | Moss ball | | | 2 |
-| Windflower fan | | | 2 |
+| Windflower fan | | | 1 |
 | Record box | yellow | | |
 | Pedal board | green | | |
 | Pedal board | blue | | |
