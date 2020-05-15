@@ -32,7 +32,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Cypress plant | blue | | | 
 | Anatomical model | | | | 
 | Popcorn machine | red | | 3 | 
-| Menu chalkboard | white | | 
 | Telescope | | 1,000 Bells | 2 | 
 | Cone | red stripes | | |  
 | Cone | green stripes | | | 
