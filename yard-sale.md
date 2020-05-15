@@ -39,8 +39,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Mama bear | cream | | | 
 | Oil barrel | light blue | | 
 | Blue corner | | | | 
-| Electric kick scooter | red | | | 
-| Electric kick scooter | white | | | 
 | Pull-up-bar stand | red | | | 
 | Pull-up-bar stand | black | | 3 | 
 | Elephant slide | pink | | | 
@@ -52,15 +50,12 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 ## Furniture set pieces
 | Item | Variant | Price | Qty |
 | --- | --- | --- | --- |
-| Antique bed | dark brown | 10,000 Bells | 2 | 
-| Antique clock | dark brown | 20,000 Bells | |
+| Antique bed | dark brown | 10,000 Bells |  | 
 | Antique clock | black | 20,000 Bells | |
 | Antique vanity | black | 10,000 Bells | | 
-| Imperial chest | brown | 1,000 Bells | 2 |
+| Imperial chest | brown | 1,000 Bells | 1 |
 | Rattan bed | light brown | 1,000 Bells | |
 | Rattan low table | black | 1,000 Bells | |
-| Rattan waste bin | white | | | |
-| Cute bed | white/pink | 3,000 Bells |  |
 | Cute wardrobe | sky blue | 1,000 Bells | |
 | Cute floor lamp | sky blue | | |
 | Cute floor lamp | yellow | | |
@@ -133,7 +128,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Zori | black | 
 | Wingtip shoes | white | 
 | Mini pleather bag | gray | 
-| Hard-shell backpack | silver | 
 | Foldover-top backpack | gray | 
 | Pear umbrella | |
 | Beach umbrella | |
