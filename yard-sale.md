@@ -18,15 +18,12 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Den desk | dark wood | 1,000 Bells | |
 | Clothes closet | blue starry pattern | | |
 | Inflatable sofa | blue | | 2 |
-| Futon | red | | 2 |
-| Old sewing machine | black | | 2 |
 | Folding floor lamp | gray | | |
 | Studio spotlight | white | | 2 |
 | Upright vacuum | green | | | 
 | Long bathtub | green | 1,000 Bells | | 
 | Long bathtub | two-towned tile (blue/white) | 1,000 Bells | | 
 | Long bathtub | white marble | 1,000 Bells | | 
-| Shower booth | black | 10,000 Bells | | 
 | Cypress plant | blue | | | 
 | Anatomical model | | | | 
 | Popcorn machine | red | | 3 | 
@@ -51,7 +48,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Antique bed | dark brown | 10,000 Bells | | 
 | Antique clock | black | 20,000 Bells | |
 | Antique vanity | black | 10,000 Bells | | 
-| Imperial chest | brown | 1,000 Bells | |
 | Rattan bed | light brown | 1,000 Bells | |
 | Rattan low table | black | 1,000 Bells | |
 | Cute wardrobe | sky blue | 1,000 Bells | |
@@ -69,7 +65,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | --- | --- | --- | --- |
 | Throwback gothic mirror | red | | 2 |
 | Ringtoss | colorful | 100 bells | |
-| Ball | soccer | | |
 | Tissue box | natural wood | | |
 | Metal can | | | 2 |
 | Board game, simple path game | | | 2 |
@@ -79,8 +74,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Moss ball | | | 2 |
 | Windflower fan | | | 1 |
 | Record box | yellow | | |
-| Pedal board | green | | |
-| Pedal board | blue | | |
 | Glass holder with candle | red | 3 |
 | Glass holder with candle | purple | |
 | Traditional tea set | normal | |
@@ -91,7 +84,6 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Soup kettle | corn soup | |
 | Sewing project | black  | | |
 | Sturdy sewing box | white | | |
-| Analog kitchen scale | blue | | |
 | Handy water cooler | green | | |
 | Handy water cooler | plaid | | |
 
@@ -128,4 +120,3 @@ DM me on Discord @ `skullface#0420` or mention me on Twitter @skullface if youâ€
 | Mini pleather bag | gray | 
 | Foldover-top backpack | gray | 
 | Pear umbrella | |
-| Beach umbrella | |
